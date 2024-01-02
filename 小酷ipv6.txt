@@ -1,4 +1,4 @@
-央视频道,#genre#
+🛰IPV6央视频道,#genre#
 
 CCTV-1综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV-2财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
@@ -181,7 +181,6 @@ CCTV17,http://103.148.244.180:66/app1/PLTV/酒店/广西.php?id=tsfile/live/1009
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 龙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw3143044227_-926148572/ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8?icpid=3&RTS=1668597937&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 
-
 湖南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw210731412_242842946/ott.mobaibox.com/PLTV/3/224/3221227320/index.m3u8?icpid=3&RTS=1674380326&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001026/index.m3u8?#http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226000/index.m3u8#https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000
 浙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw205505165_733643305/ott.mobaibox.com/PLTV/3/224/3221227393/index.m3u8?icpid=3&RTS=1674380320&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw1197826796_-265147758/ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8?icpid=3&RTS=1669699798&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8#http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225959/index.m3u8#https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000
 江苏卫视,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2983110475_-1591539074/ott.mobaibox.com/PLTV/3/224/3221228097/index.m3u8?icpid=3&RTS=1668597777&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw1750089310_187485273/ott.mobaibox.com/PLTV/3/224/3221227402/index.m3u8?icpid=3&RTS=1674386160&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3#http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225938/index.m3u8#http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225929/index.m3u8#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8#https://live.v1.mk/api/bestv.php?id=jswshd8m/8000000
@@ -205,7 +204,7 @@ CCTV17,http://103.148.244.180:66/app1/PLTV/酒店/广西.php?id=tsfile/live/1009
 重庆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw515363787_-1448315831/ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8?icpid=3&RTS=1674380630&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2787424866_142914197/ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8?icpid=3&RTS=1669701388&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2787424866_142914197/ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8?icpid=3&RTS=1669701388&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3 黑龙江卫视#http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225963/index.m3u8#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8#https://live.v1.mk/api/bestv.php?id=cqws8m/8000000
 甘肃卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1400573680_-1979013462/ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8?icpid=3&RTS=1668600490&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 吉林卫视,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw844466330_-452871666/ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8?icpid=3&RTS=1674380959&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1874077489_789689702/ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8?icpid=3&RTS=1669700475&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3#http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226013/index.m3u8#http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225981/index.m3u8#https://live.v1.mk/api/bestv.php?id=jlwshd8m/8000000
-云南卫视,https://live.v1.mk/api/bestv.php?id=ynwshd8m/8000000
+
 青海卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw1221605145_-1738716276/ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8?icpid=3&RTS=1668600311&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 新疆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 山西卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226009/index.m3u8
@@ -213,14 +212,12 @@ CCTV17,http://103.148.244.180:66/app1/PLTV/酒店/广西.php?id=tsfile/live/1009
 黑龙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw1932810369_1138674704/ott.mobaibox.com/PLTV/3/224/3221227323/index.m3u8?icpid=3&RTS=1674386343&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3#http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225985/index.m3u8#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8#http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226006/index.m3u8#https://live.v1.mk/api/bestv.php?id=hljwshd8m/8000000
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 龙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw3143044227_-926148572/ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8?icpid=3&RTS=1668597937&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
-东南卫视 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw1460673280_696172443/ott.mobaibox.com/PLTV/3/224/3221227553/index.m3u8?icpid=3&RTS=1674381576&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 东南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]:80/wh7f454c46tw1481870012_-1505625723/ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8?icpid=3&RTS=1674381597&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 东南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/wh7f454c46tw91318118_1728721263/ott.mobaibox.com/PLTV/3/224/3221228428/index.m3u8?icpid=3&RTS=1674371616&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw1540523289_-2010744264/ott.mobaibox.com/PLTV/3/224/3221227597/index.m3u8?icpid=3&RTS=1674385950&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]:80/wh7f454c46tw1928465870_439778439/ott.mobaibox.com/PLTV/3/224/3221227732/index.m3u8?icpid=3&RTS=1674386338&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw1746983786_-1453355574/ott.mobaibox.com/PLTV/3/224/3221227688/index.m3u8?icpid=3&RTS=1674386157&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
 东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw1588003974_1980521361/ott.mobaibox.com/PLTV/3/224/3221228150/index.m3u8?icpid=3&RTS=1674381703&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
-东方卫视HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/wh7f454c46tw145917302_1381458537/ott.mobaibox.com/PLTV/3/224/3221228425/index.m3u8?icpid=3&RTS=1674371671&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/wh7f454c46tw1928619653_-1503168431/ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8?icpid=3&RTS=1674386339&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 云南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1300046831_-189750076/ott.mobaibox.com/PLTV/3/224/3221225591/index.m3u8?icpid=3&RTS=1674377120&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 北京卫视,http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/wh7f454c46tw2053622677_1535084124/ott.mobaibox.com/PLTV/3/224/3221227246/index.m3u8?icpid=3&RTS=1674386464&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
@@ -349,12 +346,11 @@ CCTV17,http://103.148.244.180:66/app1/PLTV/酒店/广西.php?id=tsfile/live/1009
 海南卫视 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1760762625_-423271938/ott.mobaibox.com/PLTV/3/224/3221228101/index.m3u8?icpid=3&RTS=1674386171&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 甘肃卫视 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw1625690606_1267463833/ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8?icpid=3&RTS=1674377446&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 贵州卫视 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw1568871343_-998620180/ott.mobaibox.com/PLTV/3/224/3221227551/index.m3u8?icpid=3&RTS=1674385979&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
+东南卫视 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw1460673280_696172443/ott.mobaibox.com/PLTV/3/224/3221227553/index.m3u8?icpid=3&RTS=1674381576&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
+东方卫视HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/wh7f454c46tw145917302_1381458537/ott.mobaibox.com/PLTV/3/224/3221228425/index.m3u8?icpid=3&RTS=1674371671&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 
 
-
-
-
-港台频道,#genre#
+🛰IPV6港台频道,#genre#
 
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
@@ -362,12 +358,14 @@ CCTV17,http://103.148.244.180:66/app1/PLTV/酒店/广西.php?id=tsfile/live/1009
 
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
-凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+
+🛰港台频道,#genre#
 翡翠台,http://r.jdshipin.com/qClQf
 凤凰香港,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
-
+凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 凤凰资讯,http://wouu.net:9977/udp/239.93.0.118:2191
 凤凰中文,http://wouu.net:9977/udp/239.93.0.162:2192
 
