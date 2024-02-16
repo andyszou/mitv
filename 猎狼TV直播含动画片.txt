@@ -5,7 +5,7 @@
 官网:LLTV8.TOP,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 QQ群:632539127,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 QQ频道:LielangTV8,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-更新时间：24.1.2,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+更新时间2024.1.2,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 
 CCTV1,http://103.164.62.161:909/猎狼TV吧/PLTV/酒店/辽宁.php?id=tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://103.164.62.161:909/猎狼TV吧/PLTV/酒店/辽宁.php?id=tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
