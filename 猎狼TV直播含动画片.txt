@@ -2052,6 +2052,8 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 巨兵长城38,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3cc90241f6bc4f739c02996a98508030/1200.m3u8
 巨兵长城39,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d3aa3a468a7c43bb93421e2965752cb7/1200.m3u8
 巨兵长城40,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/afa9ac4cc6ea43f4ac78b8ea21d2b4f3/1200.m3u8
+
+├巴拉巴拉小魔仙┤,#genre#
 小魔仙剧01,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cdd0bb53dad24b3b946cbf82d1fb5255/1200.m3u8
 小魔仙剧02,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/21848456dcbb4427a79635712a123d15/1200.m3u8
 小魔仙剧03,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/706256cce8d741259e0a6f3538418f76/1200.m3u8
