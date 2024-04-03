@@ -201,7 +201,7 @@ CETV4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 老故事,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 置业频道,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
 
-🌼央卫组播,#genre# $码点小干货
+🌼央卫组播V4,#genre# $码点小干货
 CCTV-4K,http://120.79.4.185/md0403.php?id=cctv4k
 CCTV-8K,http://120.79.4.185/md0403.php?id=cctv8k
 CCTV1,http://120.79.4.185/md0403.php?id=cctv1
@@ -538,7 +538,7 @@ CCTV电视指南[1920x1080],http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobil
 987[768x576],http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226986/index.m3u8
 
 
-🌼cctv测,#genre#
+🌼数据待测V4,#genre#
 
 凤凰资讯,http://113.64.145.228:8081/hls/36/index.m3u8
 凤凰中文,http://113.64.145.228:8081/hls/37/index.m3u8
@@ -1190,7 +1190,7 @@ CHC家庭影院,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch0000009099000
 西安教育台,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001789/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 咸阳,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001799/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-🌼魔百盒V6,#genre#
+🌼魔百频道V6,#genre#
 CCTV-1,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221227467/index.m3u8
 CCTV-2,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/ott.mobaibox.com/PLTV/4/224/3221228094/index.m3u8
 CCTV-3,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
