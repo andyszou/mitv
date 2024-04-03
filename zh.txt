@@ -1,5 +1,5 @@
 🌄常看频道V6,#genre#
-CCTV-1综合,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226457/index.m3u8
+CCTV-1综合,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8$回看
 CCTV-1综合,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
 CCTV-4中文国际,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8
 CCTV-4中文国际,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -21,6 +21,9 @@ CCTV-10科教,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88
 北京纪实科教,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
 北京纪实科教,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226232/index.m3u8
 精品纪录,http://111.13.111.242/000000001000PLTV/88888888/224/3221236204/1.m3u8?HlsProfileId=
+
+CCTV 4K超高清,http://8.134.82.80:32858/ysp/haiouysp.php?id=19
+CCTV 8K超高清,http://8.134.82.80:32858/ysp/haiouysp.php?id=20
 
 CCTV 4K超高清,http://lu1.cc/itv/php/cctv4k.php
 CCTV 4K超高清,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/001/2000266303.m3u8
@@ -391,6 +394,7 @@ CCTV女性时尚[1920x1080],http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobil
 CCTV电视指南[1920x1080],http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 金色学堂[1920x1080],http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226994/index.m3u8
 黄陵电视台[1920x1080],http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226992/index.m3u8
+镇巴电视台,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226457/index.m3u8
 
 228[1047x576],http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226227/index.m3u8
 213[1047x576],http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226212/index.m3u8
