@@ -81,6 +81,14 @@ CCTV-13新闻,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 华视HD,https://h5cdn397.kylintv.tv/live/ctshd_iphone.m3u8
 中天新闻,https://h5cdn397.kylintv.tv/live/cti_iphone.m3u8
 
+中天新聞台,https://234003.xyz/watch?v=oIgbl7t0S_w
+中天新聞2台,https://234003.xyz/watch?v=WPfPjbOLNfE
+TVBS新聞台,https://234003.xyz/watch?v=2mCSYvcfhtc
+東森新聞,https://234003.xyz/watch?v=2dfAzcDf8Zg
+三立新聞,https://234003.xyz/watch?v=oZdzzvxTfUY
+寰宇新聞台,https://234003.xyz/watch?v=w87VGpgd90U
+民視新聞台,https://234003.xyz/watch?v=ylYJSBUgaMA
+
 🌼央视频道V6,#genre# $陕西
 CCTV-1综合,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8$回看
 CCTV-2财经,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
