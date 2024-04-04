@@ -1,5 +1,5 @@
 📡永久免费👉公告,#genre#
-🎉春🎉2020402,http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews#http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+🎉春🎉20240404,http://wshls.live.migucloud.com/live/QB8SRKL9_C0/playlist.m3u8#https://live.ldntv.cn/cctv13/playlist.m3u8?_upt=7fb8e3001712126596#http://36.101.6.96:554/rtp/239.253.64.59:5140?Cf=cfss.cc#http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 🎉盈🎉请勿购买,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8#http://1.62.64.76/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/tlive-test-cdn.ysp.cctv.cn/ysp/2022576803.m3u8#https://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8?aliyun_uuid=b3b8e538-3470-4fa0-b6ed-2b138e5f5fef&auth_key=2145888000-0-0-fda7ddb73d3cb5ac5bddf4eeba9b665e#http://110.249.196.71/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
 🎉天🎉谨防受骗,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8#https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 🎉下🎉如果付款,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
@@ -28,6 +28,7 @@
 凤凰中文频道,http://171.88.35.80:4000/udp/239.93.1.9:2192
 凤凰中文频道,http://117.30.115.27:8888/rtp/239.61.2.184:9092
 凤凰中文频道,http://59.51.113.8:18888/rtp/239.76.253.135:9000?Cf=cfss.cc
+凤凰中文频道,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
 
 凤凰资讯频道,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯频道,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
@@ -44,6 +45,7 @@
 凤凰资讯频道,http://171.88.35.80:4000/udp/239.93.0.118:2191
 凤凰资讯频道,http://171.88.35.80:4000/udp/239.93.1.4:2191
 凤凰资讯频道,http://59.51.113.8:18888/rtp/239.76.246.135:1234?Cf=cfss.cc
+凤凰资讯频道,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
 香港凤凰频道,http://183.204.13.13/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 文旅香港频道,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 RTHK32*频道,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
@@ -65,6 +67,8 @@ TVB亚洲武侠,http://ali.hlspull.yximgs.com/live/haioutvbyzwx.flv
 无线财经频道,http://223.71.206.22:30080/HK/j5/hls.m3u8
 TVB翡翠频道,http://223.71.206.22:30080/HK/tvb/hls.m3u8
 TVB明珠频道,http://223.71.206.22:30080/HK/mz/hls.m3u8
+星空缓冲10秒,http://wouu.net:9977/rtp/239.93.0.156:2193?Cf=cfss.cc
+星空缓冲10秒,http://wouu.net:9977/udp/239.93.0.156:2193
 星空缓冲10秒,http://182.138.136.195:4455/rtp/239.93.0.156:2193?Cf=cfss.cc
 星空缓冲10秒,http://182.138.136.195:4455/rtp/239.93.1.10:2193?Cf=cfss.cc
 香港凤凰频道,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
@@ -93,6 +97,7 @@ RTHK35*频道,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stre
 4K广东综艺台,http://113.78.253.125:8888/rtp/239.77.1.237:5146?Cf=cfss.cc
 4K广东综艺台,http://113.78.253.125:8888/rtp/239.77.0.246:5146?Cf=cfss.cc
 4K绚影卫视台,http://182.138.136.195:4455/rtp/239.93.42.33:5140?Cf=cfss.cc
+4K影院卫视台,http://221.198.121.108:4000/rtp/225.1.2.190:5002?Cf=cfss.cc
 4K乐享超清台,http://182.138.136.195:4455/rtp/239.93.0.43:5140?Cf=cfss.cc
 4K爱上高清台,http://125.46.135.6:9999/rtp/225.1.4.162:1204?Cf=cfss.cc
 4K爱上高清台,http://www.8700956.top:18888/rtp/239.81.0.123:4056?Cf=cfss.cc
@@ -226,6 +231,25 @@ CCTV-4K超清,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/
 CCTV-8K超清,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 
 🇨🇳央视联通👉组播,#genre#
+CCTV-1,http://221.198.121.108:4000/rtp/225.1.1.120:5002?Cf=cfss.cc
+CCTV-2,http://221.198.121.108:4000/rtp/225.1.1.133:5002?Cf=cfss.cc
+CCTV-3,http://221.198.121.108:4000/rtp/225.1.1.158:5002?Cf=cfss.cc
+CCTV-4,http://221.198.121.108:4000/rtp/225.1.1.150:5002?Cf=cfss.cc
+CCTV-5,http://221.198.121.108:4000/rtp/225.1.1.160:5002?Cf=cfss.cc
+CCTV-5+,http://221.198.121.108:4000/rtp/225.1.1.121:5002?Cf=cfss.cc
+CCTV-6,http://221.198.121.108:4000/rtp/225.1.1.195:5002?Cf=cfss.cc
+CCTV-7,http://221.198.121.108:4000/rtp/225.1.1.138:5002?Cf=cfss.cc
+CCTV-8,http://221.198.121.108:4000/rtp/225.1.1.196:5002?Cf=cfss.cc
+CCTV-9,http://221.198.121.108:4000/rtp/225.1.1.119:5002?Cf=cfss.cc
+CCTV-10,http://221.198.121.108:4000/rtp/225.1.1.140:5002?Cf=cfss.cc
+CCTV-11,http://221.198.121.108:4000/rtp/225.1.2.192:5002?Cf=cfss.cc
+CCTV-12,http://221.198.121.108:4000/rtp/225.1.1.142:5002?Cf=cfss.cc
+CCTV-13,http://221.198.121.108:4000/rtp/225.1.2.193:5002?Cf=cfss.cc
+CCTV-14,http://221.198.121.108:4000/rtp/225.1.1.144:5002?Cf=cfss.cc
+CCTV-15,http://221.198.121.108:4000/rtp/225.1.2.194:5002?Cf=cfss.cc
+CCTV-16,http://221.198.121.108:4000/rtp/225.1.2.237:5002?Cf=cfss.cc
+CCTV-17,http://221.198.121.108:4000/rtp/225.1.2.52:5002?Cf=cfss.cc
+
 
 CCTV1-HD,http://118.79.114.33:6001/rtp/226.0.2.153:9136?Cf=cfss.cc
 CCTV2-HD,http://118.79.114.33:6001/rtp/226.0.2.154:9144?Cf=cfss.cc
@@ -264,33 +288,19 @@ CCtv英语,http://180.167.104.105:9901/tsfile/live/1037_1.m3u8
 动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 📡湾湾频道👉全网,#genre#
-
-民视台湾台,http://ali.hlspull.yximgs.com/live/haioumstw.flv
-龙华电影台,http://ali.hlspull.yximgs.com/live/haioulhdy.flv
-东森电影台,http://ali.hlspull.yximgs.com/live/haioudsdy.flv
-东森洋片台,http://ali.hlspull.yximgs.com/live/haioudsyp.flv
-好莱坞电影,http://ali.hlspull.yximgs.com/live/haiouhlwdy.flv
-緯來電影台,http://ali.hlspull.yximgs.com/live/haiouwldy.flv
-卫视洋片台,http://ali.hlspull.yximgs.com/live/haiouwsyp.flv
-龙华洋片台,http://ali.hlspull.yximgs.com/live/haioulhyp.flv
-龙华电影台,http://ali.hlspull.yximgs.com/live/haioulhdy.flv
-美亚电影台,http://ali.hlspull.yximgs.com/live/haioumydy.flv
-龙详时代台,http://ali.hlspull.yximgs.com/live/haioulxsd.flv
-AXN 台湾,http://ali.hlspull.yximgs.com/live/haiouaxn.flv
-
-中天新闻1,http://mywlkj.ddns.net:754/tv/tw2.php?id=15
-中天新聞,http://mywlkj.ddns.net:754/tv/youtube.php?id=2 
-中天新闻2,http://mywlkj.ddns.net:754/tv/tw2.php?id=16
-中天新聞2,http://mywlkj.ddns.net:754/tv/youtube.php?id=1 
+中天新闻台,http://112.29.107.125:8182/TW/ztxw/hls.m3u8
+TVB新闻01,http://165.1.79.200:9000/live.m3u8?c=67
+TVB新闻02,http://165.1.79.200:9000/live.m3u8?c=67
+三立新闻台,http://165.1.79.200:9000/live.m3u8?c=95
+中天新闻台,http://mywlkj.ddns.net:754/tv/youtube.php?id=2 
 中视新闻台,http://mywlkj.ddns.net:754/tv/tw2.php?id=14 
-
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
-AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+中华小家,http://61.221.215.25:8800/hls/40/index.m3u8
+AMC影台,http://61.221.215.25:8800/hls/43/index.m3u8
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-49号[1280*720],http://61.221.215.25:8800/hls/49/index.m3u8
+49号频道,http://61.221.215.25:8800/hls/49/index.m3u8
 探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
@@ -726,6 +736,49 @@ CHC动作,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3
 四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 
 📡卫视联通👉组播,#genre#
+
+北京卫视,http://221.198.121.108:4000/rtp/225.1.1.113:5002?Cf=cfss.cc
+东方卫视,http://221.198.121.108:4000/rtp/225.1.2.31:5002?Cf=cfss.cc
+甘肃卫视,http://221.198.121.108:4000/rtp/225.1.1.30:5002?Cf=cfss.cc
+广东卫视,http://221.198.121.108:4000/rtp/225.1.1.116:5002?Cf=cfss.cc
+深圳卫视,http://221.198.121.108:4000/rtp/225.1.1.117:5002?Cf=cfss.cc
+贵州卫视,http://221.198.121.108:4000/rtp/225.1.2.28:5002?Cf=cfss.cc
+海南卫视,http://221.198.121.108:4000/rtp/225.1.2.82:5002?Cf=cfss.cc
+三沙卫视,http://221.198.121.108:4000/rtp/225.1.2.181:5002?Cf=cfss.cc
+河南卫视,http://221.198.121.108:4000/rtp/225.1.2.61:5002?Cf=cfss.cc
+黑龙江卫视,http://221.198.121.108:4000/rtp/225.1.1.115:5002?Cf=cfss.cc
+湖北卫视,http://221.198.121.108:4000/rtp/225.1.1.147:5002?Cf=cfss.cc
+湖南卫视,http://221.198.121.108:4000/rtp/225.1.1.114:5002?Cf=cfss.cc
+吉林卫视,http://221.198.121.108:4000/rtp/225.1.2.26:5002?Cf=cfss.cc
+江苏卫视,http://221.198.121.108:4000/rtp/225.1.1.126:5002?Cf=cfss.cc
+江西卫视,http://221.198.121.108:4000/rtp/225.1.2.29:5002?Cf=cfss.cc
+辽宁卫视,http://221.198.121.108:4000/rtp/225.1.1.154:5002?Cf=cfss.cc
+内蒙古卫视,http://221.198.121.108:4000/rtp/225.1.1.32:5002?Cf=cfss.cc
+宁夏卫视,http://221.198.121.108:4000/rtp/225.1.1.56:5002?Cf=cfss.cc
+青海卫视,http://221.198.121.108:4000/rtp/225.1.1.54:5002?Cf=cfss.cc
+山西卫视,http://221.198.121.108:4000/rtp/225.1.1.50:5002?Cf=cfss.cc
+陕西卫视,http://221.198.121.108:4000/rtp/225.1.1.41:5002?Cf=cfss.cc
+四川卫视,http://221.198.121.108:4000/rtp/225.1.1.123:5002?Cf=cfss.cc
+西藏卫视,http://221.198.121.108:4000/rtp/225.1.1.51:5002?Cf=cfss.cc
+新疆卫视,http://221.198.121.108:4000/rtp/225.1.1.35:5002?Cf=cfss.cc
+兵团卫视,http://221.198.121.108:4000/rtp/225.1.1.57:5002?Cf=cfss.cc
+广西卫视,http://221.198.121.108:4000/rtp/225.1.2.81:5002?Cf=cfss.cc
+云南卫视,http://221.198.121.108:4000/rtp/225.1.1.61:5002?Cf=cfss.cc
+浙江卫视,http://221.198.121.108:4000/rtp/225.1.1.112:5002?Cf=cfss.cc
+重庆卫视,http://221.198.121.108:4000/rtp/225.1.1.155:5002?Cf=cfss.cc
+河北卫视,http://221.198.121.108:4000/rtp/225.1.2.27:5002?Cf=cfss.cc
+保定卫视,http://221.198.121.108:4000/rtp/225.1.1.83:5002?Cf=cfss.cc
+山东教育卫视,http://221.198.121.108:4000/rtp/225.1.2.118:5002?Cf=cfss.cc
+河东卫视,http://221.198.121.108:4000/rtp/225.1.2.2:5002?Cf=cfss.cc
+河西卫视,http://221.198.121.108:4000/rtp/225.1.2.4:5002?Cf=cfss.cc
+蓟州卫视,http://221.198.121.108:4000/rtp/225.1.1.82:5002?Cf=cfss.cc
+静海卫视,http://221.198.121.108:4000/rtp/225.1.1.110:5002?Cf=cfss.cc
+滨海1,http://221.198.121.108:4000/rtp/225.1.2.7:5002?Cf=cfss.cc
+滨海2,http://221.198.121.108:4000/rtp/225.1.2.8:5002?Cf=cfss.cc
+大港油田企业,http://221.198.121.108:4000/rtp/225.1.2.14:5002?Cf=cfss.cc
+4K私享家,http://221.198.121.108:4000/rtp/225.1.1.156:5002?Cf=cfss.cc
+4K影院,http://221.198.121.108:4000/rtp/225.1.2.190:5002?Cf=cfss.cc
+
 九屏测试HD,http://118.79.114.33:6001/rtp/226.0.2.197:9488?Cf=cfss.cc
 湖南卫视HD,http://118.79.114.33:6001/rtp/226.0.2.143:9056?Cf=cfss.cc
 浙江卫视HD,http://118.79.114.33:6001/rtp/226.0.2.144:9064?Cf=cfss.cc
@@ -1007,6 +1060,31 @@ CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 长沙女姓HD,http://59.51.113.8:18888/rtp/239.76.252.23:9000?Cf=cfss.cc
 
 📡天津频道👉组播,#genre#
+天津卫视,http://125.38.229.44:8888/rtp/225.1.1.111:5002?Cf=cfss.cc
+天津新闻,http://125.38.229.44:8888/rtp/225.1.1.130:5002?Cf=cfss.cc
+天津文艺,http://125.38.229.44:8888/rtp/225.1.1.131:5002?Cf=cfss.cc
+天津影院,http://125.38.229.44:8888/rtp/225.1.1.149:5002?Cf=cfss.cc
+天津都市,http://125.38.229.44:8888/rtp/225.1.1.128:5002?Cf=cfss.cc
+天津体育,http://125.38.229.44:8888/rtp/225.1.1.122:5002?Cf=cfss.cc
+天津科教,http://125.38.229.44:8888/rtp/225.1.1.129:5002?Cf=cfss.cc
+天津少儿,http://125.38.229.44:8888/rtp/225.1.1.125:5002?Cf=cfss.cc
+天津购物,http://125.38.229.44:8888/rtp/225.1.1.151:5002?Cf=cfss.cc
+天津IPTV,http://125.38.229.44:8888/rtp/225.1.2.123:5002?Cf=cfss.cc
+
+天津卫视,http://221.198.121.108:4000/rtp/225.1.1.111:5002?Cf=cfss.cc
+天津新闻,http://221.198.121.108:4000/rtp/225.1.1.130:5002?Cf=cfss.cc
+天津文艺,http://221.198.121.108:4000/rtp/225.1.1.131:5002?Cf=cfss.cc
+天津影院,http://221.198.121.108:4000/rtp/225.1.1.149:5002?Cf=cfss.cc
+天津都市,http://125.38.229.44:8888/udp/225.1.1.128:5002
+天津都市,http://221.198.121.108:4000/rtp/225.1.1.128:5002?Cf=cfss.cc
+天津体育,http://125.38.229.44:8888/udp/225.1.1.122:5002
+
+天津体育,http://221.198.121.108:4000/rtp/225.1.1.122:5002?Cf=cfss.cc
+天津科教,http://221.198.121.108:4000/rtp/225.1.1.129:5002?Cf=cfss.cc
+天津少儿,http://221.198.121.108:4000/rtp/225.1.1.125:5002?Cf=cfss.cc
+天津购物,http://221.198.121.108:4000/rtp/225.1.1.151:5002?Cf=cfss.cc
+天津IPTV,http://221.198.121.108:4000/rtp/225.1.2.123:5002?Cf=cfss.cc
+
 天津卫视,http://blc.zmychn.cn:4000/rtp/225.1.1.111:5002?Cf=cfss.cc
 天津新闻,http://blc.zmychn.cn:4000/rtp/225.1.1.130:5002?Cf=cfss.cc
 天津文艺,http://blc.zmychn.cn:4000/rtp/225.1.1.131:5002?Cf=cfss.cc
@@ -1024,6 +1102,7 @@ CCTV02组播,http://home4.kmo.ink:8888/udp/239.3.1.60:8084
 CCTV03组播,http://www.furymax.top:85/rtp/239.69.1.122:10370
 CCTV05组播,http://www.furymax.top:85/rtp/239.69.1.123:10376
 CCTV06组播,http://www.furymax.top:85/rtp/239.69.1.124:10382
+珠海卫视组播,http://rfx2018.55555.io:2345/udp/239.77.0.155:5146
 河南卫视台4K,http://125.46.135.6:9999/rtp/225.1.4.254:1300
 河西卫视组播,http://111.167.224.47:8888/udp/225.1.2.4:5002
 家庭影院组播,http://111.167.224.47:8888/udp/225.1.1.213:5002
@@ -1116,6 +1195,7 @@ NNM家庭理财 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122624
 广东体育,http://113.78.253.125:8888/rtp/239.77.0.168:5146?Cf=cfss.cc
 广东体育,http://113.78.253.125:8888/rtp/239.77.0.6:5146
 天津体育,http://183.204.13.39/mmst.v.smtcdns.net/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel28/2300.m3u8
+天津体育,http://110.188.37.163:-9981/rtp/239.93.42.2:5140
 天津体育,http://183.204.13.39/mmst.v.smtcdns.net/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel28/index.m3u8
 天津体育,http://183.204.12.147/mmst.v.smtcdns.net/zjbuv52.live.bestvcdn.com.cn/live/program/live/tjwshd8m/8000000/mnf.m3u8
 天津体育,http://blc.zmychn.cn:4000/rtp/225.1.1.122:5002?Cf=cfss.cc
@@ -1123,13 +1203,22 @@ NNM家庭理财 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122624
 精品体育,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/1.m3u8
 精品体育,http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 Qtv5体育,http://112.6.117.141:9901/tsfile/live/1056_1.m3u8
+睛彩竞技HD,http://mywlkj.ddns.net:754/tv/bjltzb.php?id=104
+睛彩篮球HD,http://mywlkj.ddns.net:754/tv/bjltzb.php?id=105
+睛彩羽球HD,http://mywlkj.ddns.net:754/tv/bjltzb.php?id=106
+淘精彩HD,http://mywlkj.ddns.net:754/tv/bjltzb.php?id=107
 羽毛球台,http://blc.zmychn.cn:4000/udp/225.1.2.1:5002
+先锋乒羽,http://wouu.net:9977/rtp/239.93.42.56:5140?Cf=cfss.cc
+先锋乒羽,http://221.198.121.108:4000/rtp/225.1.1.219:5002?Cf=cfss.cc
 先锋乒羽,http://118.79.114.33:6001/rtp/226.0.2.121:8880?Cf=cfss.cc
 先锋乒羽,http://221.198.174.113:8888/rtp/225.1.1.219:5002?Cf=cfss.cc
 先锋乒羽,http://182.138.136.195:4455/rtp/239.93.42.56:5140?Cf=cfss.cc
 先锋乒羽,http://125.46.135.6:9999/rtp/225.1.4.210:1263?Cf=cfss.cc
+先锋乒羽,http://125.38.229.44:8888/rtp/225.1.1.219:5002?Cf=cfss.cc
+先锋乒羽,http://110.188.37.163:-9981/rtp/239.93.42.56:5140
 CCTV-05,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV+5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+麻辣体育,http://110.188.37.163:-9981/rtp/239.93.42.2:5140
 麻辣体育,http://182.138.136.195:4455/rtp/239.93.42.2:5140?Cf=cfss.cc
 ELEv体育,http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
 劲爆IPV6,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226239/index.m3u8
