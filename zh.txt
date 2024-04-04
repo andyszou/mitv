@@ -48,6 +48,7 @@ CCTV-13新闻,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 凤凰中文,http://112.19.171.156:9999/udp/239.93.0.162:2192
 凤凰中文,https://s2.pub/cctv-2
 凤凰香港,https://s2.pub/cctv-1
+中天新闻,http://112.29.107.125:8182/TW/ztxw/hls.m3u8
 中天新闻,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
 壹电视新闻,mitv://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
 年代新闻,mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
@@ -548,6 +549,7 @@ CCTV电视指南[1920x1080],http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobil
 
 🌼数据待测V4,#genre#
 
+993,http://106.54.30.243/dl/YY.php?t=22490906
 凤凰资讯,http://113.64.145.228:8081/hls/36/index.m3u8
 凤凰中文,http://113.64.145.228:8081/hls/37/index.m3u8
 凤凰香港,http://113.64.145.228:8081/hls/38/index.m3u8
