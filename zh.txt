@@ -1068,6 +1068,42 @@ CCTV-16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122610
 CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 
+CCTV1综合,http://183.94.1.118:8801/tsfile/live/0001_1.m3u8
+
+CCTV2财经,http://183.94.1.118:8801/tsfile/live/0002_1.m3u8
+
+CCTV3综艺,http://183.94.1.118:8801/tsfile/live/0003_1.m3u8
+
+CCTV4国际,http://183.94.1.118:8801/tsfile/live/0004_1.m3u8
+
+CCTV5体育,http://183.94.1.118:8801/tsfile/live/0005_1.m3u8
+
+CCTV5+体育赛事,http://220.194.178.58:8888/newlive/live/hls/7/live.m3u8
+
+CCTV6电影,http://183.94.1.118:8801/tsfile/live/0006_1.m3u8
+
+CCTV7国防军事,http://183.94.1.118:8801/tsfile/live/0007_1.m3u8
+
+CCTV8电视剧,http://183.94.1.118:8801/tsfile/live/0008_1.m3u8
+
+CCTV9纪录,http://183.94.1.118:8801/tsfile/live/0009_1.m3u8
+
+CCTV10科教,http://183.94.1.118:8801/tsfile/live/0010_1.m3u8
+
+CCTV11戏曲,http://183.94.1.118:8801/tsfile/live/0011_1.m3u8
+
+CCTV12社会与法,http://183.94.1.118:8801/tsfile/live/0012_1.m3u8
+
+CCTV13新闻,http://183.94.1.118:8801/tsfile/live/0013_1.m3u8
+
+CCTV14少儿,http://183.94.1.118:8801/tsfile/live/0014_1.m3u8
+
+CCTV15音乐,http://221.2.146.228:8888/newlive/live/hls/17/live.m3u8
+
+CCTV16奥林匹克,http://220.194.178.58:8888/newlive/live/hls/18/live.m3u8
+
+CCTV-17 农业农村,http://ott.mobaibox.com/PLTV/3/224/3221227726/index.m3u8
+
 🌍卫视频道V4,#genre#
 凤凰中文,http://39.134.18.196:80/wh7f454c46tw2172490011_-1360941031/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8?icpid=88888890&RTS=1707328982&from=20&ocs=2_111.20.45.169_80&hms_devid=8368&online=1707328982&vqe=3
 凤凰资讯,http://39.134.18.196:80/wh7f454c46tw2280983051_-1501544638/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8?icpid=88888890&RTS=1707329090&from=20&ocs=2_111.20.45.166_80&hms_devid=8368&online=1707329090&vqe=3
