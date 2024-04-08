@@ -1,9 +1,6 @@
 🌄常看频道V6,#genre#
-
 CCTV-1综合,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
 CCTV-4中文国际,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8
-CCTV-4中文国际,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-13新闻,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226233/index.m3u8
 CCTV-13新闻,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8
 CCTV-9纪录,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8
 CCTV-10科教,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225730/index.m3u8
@@ -216,75 +213,72 @@ CETV4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 黑莓动画,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 
+✴️秒看频道V4,#genre#
+鳳凰中文,tvbus://5dSowZcmV9uBU53Ta4adX9jsR1oruMZQLf7ZGhYwjre3MHyebs1DfHJufPPzs
+鳳凰資訊,tvbus://6YfdwvH5tvpwkovpabiuqNxFQ71LyqKf1ig2jbgquj1XernLBHKUMa1fF8ACs
+中天新聞臺,tvbus://5mRHBqfNju4E6n2S7shtcKAmAuiUZZ7yLm3y52SiS96Q18X8MWhprTW9DPrm8
+中天新聞二,tvbus://6BahgVfe6LnJa1aei5CWbzNEWtQfwuuNKAEAwbYR8gSEzqTQU1HLRBsDSDX6p
 
-🌼央卫组播V4,#genre#
-CCTV-4K,http://120.79.4.185/md0403.php?id=cctv4k$码点小干货
-CCTV-8K,http://120.79.4.185/md0403.php?id=cctv8k
-CCTV1,http://120.79.4.185/md0403.php?id=cctv1
-CCTV2,http://120.79.4.185/md0403.php?id=cctv2
-CCTV3,http://120.79.4.185/md0403.php?id=cctv3
-CCTV4,http://120.79.4.185/md0403.php?id=cctv4
-CCTV5,http://120.79.4.185/md0403.php?id=cctv5
-CCTV5+,http://120.79.4.185/md0403.php?id=cctv5p
-CCTV5,http://120.79.4.185/md0403.php?id=cctv5
-CCTV6,http://120.79.4.185/md0403.php?id=cctv6
-CCTV7,http://120.79.4.185/md0403.php?id=cctv7
-CCTV8,http://120.79.4.185/md0403.php?id=cctv8
-CCTV9,http://120.79.4.185/md0403.php?id=cctv9
-CCTV10,http://120.79.4.185/md0403.php?id=cctv10
-CCTV11,http://120.79.4.185/md0403.php?id=cctv11
-CCTV12,http://120.79.4.185/md0403.php?id=cctv12
-CCTV13,http://120.79.4.185/md0403.php?id=cctv13
-CCTV14,http://120.79.4.185/md0403.php?id=cctv14
-CCTV15,http://120.79.4.185/md0403.php?id=cctv15
-CCTV16,http://120.79.4.185/md0403.php?id=cctv16
-CCTV16-4K,http://120.79.4.185/md0403.php?id=cctv16-4k
-CCTV17,http://120.79.4.185/md0403.php?id=cctv17
-CCTV兵器科技,http://120.79.4.185/md0403.php?id=bqkj
-CCTV第一剧场,http://120.79.4.185/md0403.php?id=dyjc
-CCTV怀旧剧场,http://120.79.4.185/md0403.php?id=hjjc
-CCTV风云剧场,http://120.79.4.185/md0403.php?id=fyjc
-CCTV风云音乐,http://120.79.4.185/md0403.php?id=fyyy
-CCTV风云足球,http://120.79.4.185/md0403.php?id=fyzq
-CCTV电视指南,http://120.79.4.185/md0403.php?id=dszn
-CCTV女性时尚,http://120.79.4.185/md0403.php?id=nxss
-CCTV央视文化精品,http://120.79.4.185/md0403.php?id=whjp
-CCTV世界地理,http://120.79.4.185/md0403.php?id=sjdl
-CCTV高尔夫网球,http://120.79.4.185/md0403.php?id=gefwq
-CCTV央视台球,http://120.79.4.185/md0403.php?id=ystq
-CCTV卫生健康,http://120.79.4.185/md0403.php?id=wsjk
-CGTN,http://120.79.4.185/md0403.php?id=cgtn
-CGTN纪录,http://120.79.4.185/md0403.php?id=cgtnjl
-CGTN西语,http://120.79.4.185/md0403.php?id=cgtne
-CGTN法语,http://120.79.4.185/md0403.php?id=cgtnf
-CGTN阿语,http://120.79.4.185/md0403.php?id=cgtna
-CGTN俄语,http://120.79.4.185/md0403.php?id=cgtnr
-教育1台,http://120.79.4.185/md0403.php?id=cetv1
-北京卫视,http://120.79.4.185/md0403.php?id=bjws
-东方卫视,http://120.79.4.185/md0403.php?id=dfws
-天津卫视,http://120.79.4.185/md0403.php?id=tjws
-重庆卫视,http://120.79.4.185/md0403.php?id=cqws
-黑龙江卫视,http://120.79.4.185/md0403.php?id=hljws
-辽宁卫视,http://120.79.4.185/md0403.php?id=lnws
-河北卫视,http://120.79.4.185/md0403.php?id=hbws
-山东卫视,http://120.79.4.185/md0403.php?id=sdws
-安徽卫视,http://120.79.4.185/md0403.php?id=ahws
-湖北卫视,http://120.79.4.185/md0403.php?id=hubws
-湖南卫视,http://120.79.4.185/md0403.php?id=hunws
-江西卫视,http://120.79.4.185/md0403.php?id=jxws
-江苏卫视,http://120.79.4.185/md0403.php?id=jsws
-浙江卫视,http://120.79.4.185/md0403.php?id=zjws
-东南卫视,http://120.79.4.185/md0403.php?id=dnws
-广东卫视,http://120.79.4.185/md0403.php?id=gdws
-深圳卫视,http://120.79.4.185/md0403.php?id=szws
-广西卫视,http://120.79.4.185/md0403.php?id=gxws
-贵州卫视,http://120.79.4.185/md0403.php?id=gzws
-四川卫视,http://120.79.4.185/md0403.php?id=scws
-新疆卫视,http://120.79.4.185/md0403.php?id=xjws
-海南卫视,http://120.79.4.185/md0403.php?id=hinws
-兵团卫视,http://120.79.4.185/md0403.php?id=btws
+CM+,tvbus://6EVzUxYPDyoKevxmTsLeaAPZXyYDbQPFWFjueMGszEqtEvG9ey7irgJgWG645
+翡翠臺,tvbus://5rV1Ld5jfAgFmqd59f9kf8jWqKswF18rgpZTZiNLPKLSSiL5g3pmZURtkw14H
+無線新聞臺|无线新闻,tvbus://66gdf8paE26qvXnctfutwwsEfWyC481djva7SUY1zftYDXQugiQB12MPAS74z
+NOW 新聞臺(多音轨)|NOW新闻台,tvbus://5KeEZTcVLwfvaNJqbfHKtewDegprBeZE1Pcs6Se6xuy2wuBPvdfiETS6ujggj
+CN卡通,tvbus://63cWEPW8ruZZtsvRuf3usDAsmYJDQXfuSE297XPyocVWNbzNgkm6kWGiaaxrb
+Nicke Jr,tvbus://5omScBThsvkP1tUDuQPs5btR3Nmg7MKRhYdaaccKRUd9MYJqaDerSsCvMBbjK
+CBeebies,tvbus://5juiSKAYGHDkrv3ijq38qpviAe2W2YDffn2UWBBa8isvEt7MGiWeEEHn8MmM4
+CARTOONITO,tvbus://5QfiYZdmCbaXgbzXKk2gBauNhFekJRwTKPd92QSKn2ZMg2kmwGhYU8K9M2yiF
+Dreamworks,tvbus://5XRChDQipkyJ2JvBaGSaNnJU2k6sGnWGCAUrp4SXdoWgSsAMuLz2jqh4VivMx
+Nickelodeon(多音轨),tvbus://612C38swAxYbSBKPWuGtTijTo8TTqE1ECP23j5YfyHRgk9Si2Z23s5rxQXHHH
+MOMO親子臺|MOMO亲子台,tvbus://6YSEqLoZguqNudAXcarcZcQkwuJCsQFZvZkE9hjm6hWNmkhb9jQmQR54SY2bD
+東森幼幼臺,tvbus://6aeJTzNbcnZVctefqkciCpcoFgARMknjeQNa7FQCKhqiXazXem6NwCPEHCyHg
+美亞電影臺(多音轨)|美亚高清电影台,tvbus://6TwscmqLkpoWYKbxcUnZjKFvgRYPeRVGC7KXK47BaMb3mjCP4StppB3Ya15JU
+緯來電影臺,tvbus://5UtJ7mjvosVF3ZVWm4KNBFx4gezQtZ9zKJPoqEWaoWPgxG1rbjPB8ZMTGod6n
+東森洋片臺,tvbus://672EhDvyaVEG1xf7Ag6dkYvBM5hGyCwkaNUtirRcC1mt36zbpjAbufRgtwqP8
+東森電影臺,tvbus://5YvqjHRMwhQDgE5jdFh5gScS14nTrSxTxorXPqRbjVfCZJPshPuoco5e5Zvz5
+龍祥電影臺,tvbus://5vQYWiib646quwv9M3RTUqKkx5gCcc8HHMzqM6kfQkXQ9i6NesbZmidyiA7tJ
+好萊塢電影臺,tvbus://6EVKZL4iPc1vtCip7GLUyjqWC5E9vP8nqpBNg8UbfxS4N187RePCh3ccnYY56
+天映頻道HD,tvbus://5y8Swk81MtK5bByMz5RqeWdapzfvDTfhNQgutXE4at8dfq15myC5dgJLFeLoc
+天映經典頻道(多音轨)|天映经典,tvbus://6Jy9km1RDec5gf58x7d5rTAvkc8FdiTP46RPDYNaWzHTxEvi8qisn5Hoo5Y7R
+三立臺灣臺,tvbus://6FQQ1m39Fgstd11F4TL5RazmGLeGWdpqdNb8K1bHThWkPyiHsC9PUhdvAVvZp
+博斯無限一臺,tvbus://6SJospV4pYz1eyQgZXyj5Dqa2oCEC7pN2oDoccXMk5TJEMy42nn8SYc4XKJJM
+ELTA體育臺1(多音轨),tvbus://5g81TpJF3gJhbKuTrcoioESJ5u5JudGf2LhaeHKtFnXhkn2FgLuYa6qCjmMP1
+ELTA體育臺2(多音轨),tvbus://6VioXFzDbZN7gmNVBbFNhCTUBvHKMuw2U4JyLZKApp1uYSh81LcBkRDFj49Jy
+ELTA體育臺3(多音轨),tvbus://5WFDSzuu9dnTABgWgYUhbQ1Bs6AoCAors9YpZYo4BZNgXXeTaQRHgVMgSNqnz
+CCTV英語臺,tvbus://5oMbFzsHNZTkqYrVXHPYMhAm7DQN6P77QhM6Vx1WxcBS6Z9txjmm9sL22ombv
+CCTV法語臺,tvbus://6CGW45Ezvbf5HHiyF1JQCeC2rTZYJ2zZqWHAQ3zosvFatRgXQB3djZiWDHPgE
+CCTV俄語臺,tvbus://5fHxpmdF6taMJc5hFSf5pRfmJ2kHSgpYebqtDTBZNSZo7yHFiwbeEhoz4ygV4
+CCTV記錄臺,tvbus://6Pxx54T6SSSvFa1XoGLzL95vZYKq3PdsbT8A8KUaLhBxi1yDHtBxJecpc8vgN
+CCTV阿拉伯,tvbus://6Y3rxiWFfSiA6r1zKNN5s5YR33ki3Q1Bvad7QQvxvnASvC1A2ZDF5opuzMEX8
+鏡__新聞臺,tvbus://6hWkcMPWx6KfspzpGj9tPnruUa4RfWqjpvcmNbKw7LFNmaGGT7efWq4HtYbZz
+東森新聞臺,tvbus://5Ky257Zp7uBBV4F3LhkRcGikjPPdy6aGJcswDKCpZe7SGKNX4cgKk8uit36az
 
+中天亞洲臺,tvbus://5qv2Etgy6WnoqHPRV4FxK9otvdBUpw2kvQN2cDsCpmypqjhWdfi353VV8WbAy
+民視新聞臺,tvbus://6VKQ7RHfRPXjkKLNumunKPdxHKtdLMTs1kK88MD8UpJBy4NLVeXDxGU6Gk92L
+臺視新聞臺,tvbus://6BZ7TJrwC9KbjAW1mYVyNp2m5qjToN6y6L1a8h2yk758CU65fQkQxfJs26wjg
+華視新聞臺,tvbus://61gSTL5Dtmz5sUsLWX6uMpPSYyfaaMpmY3BMi5E64SBBsPAGVz4eifhNW9NzB
+中視新聞臺,tvbus://6FnndUrJhSwjFyzugmfgBHtK16x3LQEa2G2kgzV8sEPq19ADqWjx24hxEJXLf
+寰宇新聞臺,tvbus://5d14WVQPHkFVtV1e6HkdTUjvJbNneHxMpUHy3DRcSToMRP1k3pGXEJF2xVAhx
+亞洲新聞臺,tvbus://
+半島新聞臺,tvbus://5MaVNW7Yo2u9w7tUBRE9AFecdrouV4chUJHYjBBw2D2Ltc2DrqSjwm1piqGJd
 
+今日俄羅斯,tvbus://6CrUbKzkMoxSVpHZqbWm72UZc5cUkMxMjK4i6WT73gSeAG35erTy7mfPX7mQM
+寰宇新聞臺灣臺,tvbus://6LY1HV24AjZZSvPbZQVeV4cnF7LbREumvoPLxZ6hNsRF3JZCuBLdaG3fk5z8a
+연합뉴스TV,tvbus://6h1tHvYPYAUNNAnkJYBdKjN1F6vqh6wgNAaLbDiHQ7aFH14dc54nCV79DVp7z
+DW News,tvbus://69BFmttNBYVDcvDB4UEVvGxc5GRpSXtwCJxhMsRxiabkzyrCfbMkTm8SzbVT1
+SKY NEWS,tvbus://6gVy6Sj1Wqk4e2KP5bpYPR974FVQaem7ENbUVyGGaMxxnmMgpi8CDK1De9b3N
+Euronews,tvbus://5aMVCzioCSCYHPNKo8vxMQeAFS5mdC4VxY8bKhNkFviFa8r5ZykHLTSpXNtVJ
+Bloomberg,tvbus://63Sim9XdMFAigXiWkkfyXTMBZMapXL7YHYuLgxkN72a2sANjDm5u3f12CosGJ
+ABC News,tvbus://5MGRKFKF7BgQrC5RK3RyXEtWZLWXtR8tT2N2ADiQpMavmAYAgNFV3Sp9m1WNH
+ABC News (Australia),tvbus://6ewDGkm8fU7JNgybdpFk36e7Ze6UgNkB1WTXBaC16XF7Gwm7qNAtbWDbtRR7h
+Россия-24,tvbus://5VJPcmACRhGH8xiXp1d3sPK9QNfgF3EBSRTMCQZ6YZZKFN1aBSu1Hr9LNKabF
+FRANCE 24,tvbus://6fCmNfSWUGKLvNRcdjCy5WNzns2ebYposMhbVcn6CLik6kh8LwDkvTEtpohLq
+華藏衛視,tvbus://5tokmSj2JUmnjHGoBfrPTxiXKLWKUikdjf3snSuQ4VgPFyMvhgPWxpmWnj3DF
+大愛一臺,tvbus://6W14YgbB43QkveB55iBQVE7fQ4gbrt172WivbDFrZpsLj4rVQdEw4zE4bYabZ
+大愛二臺,tvbus://5NZx2GvmaEmwuMCNTrepMUmSAT8ys5vMX69odxNWRr1B7HRrj6dNQ3FFmbHYo
+
+1_HD,tvbus://5vHH3kmQrydizNZn1wcgsDftcBkBF6QVtvmXCvCK14C5SHiz4pDiGm5yYBtxk
+World Fashion,tvbus://5di9sLSHoofPRKZ7RjzuvFLu1QqtRKpaizZ3UYib8vT6CFXkbfgmqMqL2kvLz
+Fashion TV,tvbus://5mPyaZQtE4xuaN4pkwGrDLxLmEiMwvQq2E84RPDSx1JRgvr9yvUNgzhSX2SKo
 
 🌼湾湾频道V4,#genre#
 (3线)凤凰资讯,http://223.71.206.22:30080/HK/fhzx/hls.m3u8
