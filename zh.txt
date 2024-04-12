@@ -47,9 +47,8 @@ CCTV-9纪录,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 CCTV-10科教,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
 CCTV-13新闻,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 
-
-凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191$ok
-凤凰资讯,http://kuanglong.vicp.hk:2121/udp/239.93.16.118:8708
+凤凰资讯,http://kuanglong.vicp.hk:2121/udp/239.93.16.118:8708$OK1
+凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191$OK2
 凤凰资讯,http://giwon.ddns.net:5555/udp/239.93.0.118:2191
 凤凰资讯,http://giwon.ddns.net:5555/udp/239.93.1.4:2191
 凤凰资讯,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
