@@ -1302,7 +1302,7 @@ CCTV-17 农业农村,http://ott.mobaibox.com/PLTV/3/224/3221227726/index.m3u8
 辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226254/index.m3u8
 河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226320/index.m3u8
 青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
-上海东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226336/index.m3u8
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226336/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226342/index.m3u8
 黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226365/index.m3u8
 黑龙江新闻法治,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226368/index.m3u8
@@ -1413,7 +1413,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 辽宁卫视,http://58.210.23.42:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://58.210.23.42:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://58.210.23.42:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙卫视,http://58.210.23.42:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙股卫视,http://58.210.23.42:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://58.210.23.42:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://58.210.23.42:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://58.210.23.42:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
