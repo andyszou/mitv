@@ -1216,42 +1216,23 @@ CCTV-15音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/inde
 CCTV-16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
-
-
 CCTV1综合,http://183.94.1.118:8801/tsfile/live/0001_1.m3u8
-
 CCTV2财经,http://183.94.1.118:8801/tsfile/live/0002_1.m3u8
-
 CCTV3综艺,http://183.94.1.118:8801/tsfile/live/0003_1.m3u8
-
 CCTV4国际,http://183.94.1.118:8801/tsfile/live/0004_1.m3u8
-
 CCTV5体育,http://183.94.1.118:8801/tsfile/live/0005_1.m3u8
-
 CCTV5+体育赛事,http://220.194.178.58:8888/newlive/live/hls/7/live.m3u8
-
 CCTV6电影,http://183.94.1.118:8801/tsfile/live/0006_1.m3u8
-
 CCTV7国防军事,http://183.94.1.118:8801/tsfile/live/0007_1.m3u8
-
 CCTV8电视剧,http://183.94.1.118:8801/tsfile/live/0008_1.m3u8
-
 CCTV9纪录,http://183.94.1.118:8801/tsfile/live/0009_1.m3u8
-
 CCTV10科教,http://183.94.1.118:8801/tsfile/live/0010_1.m3u8
-
 CCTV11戏曲,http://183.94.1.118:8801/tsfile/live/0011_1.m3u8
-
 CCTV12社会与法,http://183.94.1.118:8801/tsfile/live/0012_1.m3u8
-
 CCTV13新闻,http://183.94.1.118:8801/tsfile/live/0013_1.m3u8
-
 CCTV14少儿,http://183.94.1.118:8801/tsfile/live/0014_1.m3u8
-
 CCTV15音乐,http://221.2.146.228:8888/newlive/live/hls/17/live.m3u8
-
 CCTV16奥林匹克,http://220.194.178.58:8888/newlive/live/hls/18/live.m3u8
-
 CCTV-17 农业农村,http://ott.mobaibox.com/PLTV/3/224/3221227726/index.m3u8
 
 🌍卫视频道V4,#genre#
@@ -1400,8 +1381,6 @@ CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
-
-
 //飞龙
 江苏卫视,http://58.210.23.42:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://58.210.23.42:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1428,6 +1407,36 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 湖北卫视,http://58.210.23.42:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://58.210.23.42:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://58.210.23.42:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+
+🌍云南银河V4,#genre#
+CCTV1,http://yncbn-gitv.cdn.gitv.tv/gitv_live/G_CCTV-1-HQ/G_CCTV-1-HQ.m3u8?$3M1920x1080
+CCTV2,http://yncbn-gitv.cdn.gitv.tv/gitv_live/G_CCTV-2-HQ/G_CCTV-2-HQ.m3u8?$3M1920x1080
+CCTV3,http://yncbn-gitv.cdn.gitv.tv/gitv_live/G_CCTV-3-HQ/G_CCTV-3-HQ.m3u8?$3M1920x1080
+CCTV5,http://yncbn-gitv.cdn.gitv.tv/gi ... Q/G_CCTV-5-HQ.m3u8?$4M1920x1080
+CCTV6,http://yncbn-gitv.cdn.gitv.tv/gi ... Q/G_CCTV-6-HQ.m3u8?$3M1920x1080
+CCTV7,http://yncbn-gitv.cdn.gitv.tv/gi ... Q/G_CCTV-7-HQ.m3u8?$3M1920x1080
+CCTV8,http://yncbn-gitv.cdn.gitv.tv/gi ... Q/G_CCTV-8-HQ.m3u8?$3M1920x1080
+CCTV9,http://yncbn-gitv.cdn.gitv.tv/gi ... Q/G_CCTV-9-HQ.m3u8?$3M1920x1080
+CCTV10,http://yncbn-gitv.cdn.gitv.tv/gi ... /G_CCTV-10-HQ.m3u8?$3M1920x1080
+CCTV12,http://yncbn-gitv.cdn.gitv.tv/gi ... /G_CCTV-12-HQ.m3u8?$3M1920x1080
+CCTV14,http://yncbn-gitv.cdn.gitv.tv/gi ... /G_CCTV-14-HQ.m3u8?$3M1920x1080
+CCTV16,http://yncbn-gitv.cdn.gitv.tv/gi ... /G_CCTV-16-HQ.m3u8?$4M1920x1080
+CCTV17,http://yncbn-gitv.cdn.gitv.tv/gi ... /G_CCTV-17-HQ.m3u8?$3M1920x1080
+北京卫视,http://yncbn-gitv.cdn.gitv.tv/gi ... /G_BEIJING-HQ.m3u8?$3M1920x1080
+东方卫视,http://yncbn-gitv.cdn.gitv.tv/gi ... G_DONGFANG-HQ.m3u8?$3M1920x1080
+东南卫视,http://yncbn-gitv.cdn.gitv.tv/gi ... /G_DONGNAN-HQ.m3u8?$3M1920x1080
+广东卫视,http://yncbn-gitv.cdn.gitv.tv/gi ... _GUANGDONG-HQ.m3u8?$3M1920x1080
+黑龙江卫视,http://yncbn-gitv.cdn.gitv.tv/gi ... ILONGJIANG-HQ.m3u8?$3M1920x1080
+湖南卫视,http://yncbn-gitv.cdn.gitv.tv/gi ... HQ/G_HUNAN-HQ.m3u8?$3M1920x1080
+吉林卫视,http://yncbn-gitv.cdn.gitv.tv/gi ... HQ/G_JILIN-HQ.m3u8?$3M1920x1080
+江苏卫视,http://yncbn-gitv.cdn.gitv.tv/gi ... /G_JIANGSU-HQ.m3u8?$3M1920x1080
+江西卫视,http://yncbn-gitv.cdn.gitv.tv/gi ... /G_JIANGXI-HQ.m3u8?$3M1920x1080
+辽宁卫视,http://yncbn-gitv.cdn.gitv.tv/gi ... G_LIAONING-HQ.m3u8?$3M1920x1080
+山东卫视,http://yncbn-gitv.cdn.gitv.tv/gi ... G_SHANDONG-HQ.m3u8?$3M1920x1080
+深圳卫视,http://yncbn-gitv.cdn.gitv.tv/gi ... G_SHENZHEN-HQ.m3u8?$3M1920x1080
+四川卫视,http://yncbn-gitv.cdn.gitv.tv/gi ... /G_SICHUAN-HQ.m3u8?$3M1920x1080
+云南卫视,http://yncbn-gitv.cdn.gitv.tv/gi ... Q/G_YUNNAN-HQ.m3u8?$3M1920x1080
+浙江卫视,http://yncbn-gitv.cdn.gitv.tv/gi ... G_ZHEJIANG-HQ.m3u8?$3M1920x1080
 
 
 🌼陕西移动V4,#genre#$神仙
