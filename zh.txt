@@ -84,6 +84,8 @@ CCTV-13新闻,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 凤凰香港,http://113.64.145.91:8081/hls/38/index.m3u8
 
 中天新闻,http://107.174.133.144:2095/live.m3u8?c=7
+中天新闻,http://154.yfvodcdn.com:8080/live/ztylt01/hls.m3u8
+中天新闻,http://154.yfvodcdn.com:8080/live/ztylt02/hls.m3u8
 
 //飞龙
 中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
@@ -164,7 +166,7 @@ TVBS新聞台,https://234003.xyz/watch?v=2mCSYvcfhtc
 民視新聞台,https://234003.xyz/watch?v=ylYJSBUgaMA
 
 
-📡台湾频道V4,#genre#
+🌍台湾频道V4,#genre#
 
 TVBS频道,http://mtw.so/6wgNqO
 TVBS新闻,http://mtw.so/5FDjU6
@@ -463,7 +465,7 @@ CGTN记录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 超级综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 
-🌼央视频源V4,#genre#
+🌍央视频源V4,#genre#
 
 CCTV-4K,http://ygbh.live/ysp.php?id=cctv4k
 CCTV-8K,http://ygbh.live/ysp.php?id=cctv8k
@@ -531,7 +533,7 @@ CGTN俄语,http://ygbh.live/ysp.php?id=cgtnr
 西藏卫视,http://ygbh.live/ysp.php?id=xzws
 山东卫视,http://ygbh.live/ysp.php?id=sdws
 
-🌼央卫代理8M,#genre#
+🌍央卫代理8M,#genre#
 CCTV16-4K,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/daili/?id=cctv16hd4k/15000000
 CCTV-4K,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/daili/?id=cctv4k/15000000
 欢笑剧场4k,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/daili/?id=hxjc4k/15000000
@@ -753,7 +755,7 @@ CETV4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 黑莓动画,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 
-✴️秒看频道V4,#genre#
+✨秒看频道V4,#genre#
 鳳凰中文,tvbus://5dSowZcmV9uBU53Ta4adX9jsR1oruMZQLf7ZGhYwjre3MHyebs1DfHJufPPzs
 鳳凰資訊,tvbus://6YfdwvH5tvpwkovpabiuqNxFQ71LyqKf1ig2jbgquj1XernLBHKUMa1fF8ACs
 中天新聞臺,tvbus://5mRHBqfNju4E6n2S7shtcKAmAuiUZZ7yLm3y52SiS96Q18X8MWhprTW9DPrm8
@@ -820,7 +822,7 @@ FRANCE 24,tvbus://6fCmNfSWUGKLvNRcdjCy5WNzns2ebYposMhbVcn6CLik6kh8LwDkvTEtpohLq
 World Fashion,tvbus://5di9sLSHoofPRKZ7RjzuvFLu1QqtRKpaizZ3UYib8vT6CFXkbfgmqMqL2kvLz
 Fashion TV,tvbus://5mPyaZQtE4xuaN4pkwGrDLxLmEiMwvQq2E84RPDSx1JRgvr9yvUNgzhSX2SKo
 
-🌼湾湾频道V4,#genre#
+🌍湾湾频道V4,#genre#
 
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
@@ -842,7 +844,7 @@ TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 凤凰资讯,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 
 
-🌼YY直播频道,#genre#
+🔥YY直播频道,#genre#
 
 993舞蹈,http://43.138.170.29:35455/yy/22490906
 993舞蹈,https://lunbo.freetv.top/yy/22490906
@@ -949,7 +951,7 @@ S型性感热舞深深,http://43.138.170.29:35455/yy/1382671181
 速度与激情集,http://43.138.170.29:35455/yy/1382736911
 漫威系列轮播,http://43.138.170.29:35455/yy/1354932402
 
-🌼数据待测V4,#genre#
+🌍数据待测V4,#genre#
 
 凤凰资讯,http://113.64.145.228:8081/hls/36/index.m3u8
 凤凰中文,http://113.64.145.228:8081/hls/37/index.m3u8
@@ -1243,7 +1245,7 @@ TVB星河台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejjmjptvjsjjwxnhjjwj
 
 
 
-🌼香港频道V4,#genre#
+🌍香港频道V4,#genre#
 
 凤凰资讯,http://ali.hlspull.yximgs.com/live/twlivetvzzpcpdvuezlzyzzyfzoxvchzwhzwozzzhdzzlszhbzfhzx.flv
 凤凰中文,http://ali.hlspull.yximgs.com/live/twlivetvzzpcpvuezlzydzzyfzoxvchzwhzwdozzzhzzlszhbzfhzw.flv
@@ -1609,7 +1611,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 黑龙江卫视,http://58.210.23.42:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-🌼陕西移动V4,#genre#$神仙
+🌍陕西移动V4,#genre#$神仙
 CCTV1,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV2,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV3,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
