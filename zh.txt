@@ -14,6 +14,9 @@ CCTV-4K超高清,http://lu1.cc/itv/php/cctv4k.php?id=4khd
 CCTV-4K超高清,http://lu1.cc/itv/php/cctv4k.php?id=4kfhd
 CCTV-4K超高清,http://lu1.cc/itv/php/cqyx.php?id=cctv4k
 CCTV-4K超高清,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
+CCTV-4K 超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+CCTV-8K 超高清,https://tv.cry33.com/ys4k.php?id=8k
+
 北京纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 金鹰纪实,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226351/index.m3u8
 金鹰纪实,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -67,7 +70,9 @@ CCTV-13新闻,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://nas.8211321.com:5555/rtp/239.61.2.184:9092
 
-
+凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰香港,http://113.64.145.91:8081/hls/38/index.m3u8
 
 //飞龙
 中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
