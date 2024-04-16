@@ -165,6 +165,90 @@ TVBS新聞台,https://234003.xyz/watch?v=2mCSYvcfhtc
 寰宇新聞台,https://234003.xyz/watch?v=w87VGpgd90U
 民視新聞台,https://234003.xyz/watch?v=ylYJSBUgaMA
 
+🌍央卫单播V4,#genre#
+1 CCTV1 http://60.6.255.8:2180/live/cctv1/index.m3u8
+2 CCTV2 http://60.6.255.8:2180/live/cctv2/index.m3u8
+3 CCTV3 http://60.6.255.8:2180/live/cctv3/index.m3u8
+4 CCTV4 http://60.6.255.8:2180/live/cctv4/index.m3u8
+5 CCTV5 http://60.6.255.8:2180/live/cctv5/index.m3u8
+6 CCTV6 http://60.6.255.8:2180/live/cctv6/index.m3u8
+7 CCTV7 http://60.6.255.8:2180/live/cctv7/index.m3u8
+8 CCTV8 http://60.6.255.8:2180/live/cctv8/index.m3u8
+9 CCTV9 http://60.6.255.8:2180/live/cctv9/index.m3u8
+10 CCTV10 http://60.6.255.8:2180/live/cctv10/index.m3u8
+11 CCTV11 http://60.6.255.8:2180/live/cctv11/index.m3u8
+12 CCTV12 http://60.6.255.8:2180/live/cctv12/index.m3u8
+13 CCTV13 http://60.6.255.8:2180/live/cctv13/index.m3u8
+14 CCTV14 http://60.6.255.8:2180/live/cctv14/index.m3u8
+15 CCTV15 http://60.6.255.8:2180/live/cctv15/index.m3u8
+16 河北卫视 http://60.6.255.8:2180/live/hebws/index.m3u8
+17 河北经济 http://60.6.255.8:2180/live/hebjj/index.m3u8
+18 河北都市 http://60.6.255.8:2180/live/hebds/index.m3u8
+19 河北影视 http://60.6.255.8:2180/live/hebys/index.m3u8
+20 少儿科教 http://60.6.255.8:2180/live/hebse/index.m3u8
+21 河北公共 http://60.6.255.8:2180/live/hebsgg/index.m3u8
+22 河北农民 http://60.6.255.8:2180/live/hebnm/index.m3u8
+23 湖南卫视 http://60.6.255.8:2180/live/hunws/index.m3u8
+24 浙江卫视 http://60.6.255.8:2180/live/zjws/index.m3u8
+25 江苏卫视 http://60.6.255.8:2180/live/jsws/index.m3u8
+26 安徽卫视 http://60.6.255.8:2180/live/ahws/index.m3u8
+27 北京卫视 http://60.6.255.8:2180/live/bjws/index.m3u8
+28 天津卫视 http://60.6.255.8:2180/live/tjws/index.m3u8
+29 辽宁卫视 http://60.6.255.8:2180/live/lnws/index.m3u8
+30 山东卫视 http://60.6.255.8:2180/live/sdws/index.m3u8
+31 云南卫视 http://60.6.255.8:2180/live/ynws/index.m3u8
+32 河南卫视 http://60.6.255.8:2180/live/henws/index.m3u8
+33 黑龙江卫视 http://60.6.255.8:2180/live/hljws/index.m3u8
+34 四川卫视 http://60.6.255.8:2180/live/scws/index.m3u8
+35 江西卫视 http://60.6.255.8:2180/live/jxws/index.m3u8
+36 贵州卫视 http://60.6.255.8:2180/live/gzws/index.m3u8
+37 深圳卫视 http://60.6.255.8:2180/live/szws/index.m3u8
+38 湖北卫视 http://60.6.255.8:2180/live/hubws/index.m3u8
+39 东方卫视 http://60.6.255.8:2180/live/dfws/index.m3u8
+40 重庆卫视 http://60.6.255.8:2180/live/cqws/index.m3u8
+41 东南卫视 http://60.6.255.8:2180/live/dnws/index.m3u8
+42 广东卫视 http://60.6.255.8:2180/live/gdws/index.m3u8
+43 广西卫视 http://60.6.255.8:2180/live/gxws/index.m3u8
+44 吉林卫视 http://60.6.255.8:2180/live/jlws/index.m3u8
+45 陕西卫视 http://60.6.255.8:2180/live/sxws/index.m3u8
+46 山西卫视 http://60.6.255.8:2180/live/shxws/index.m3u8
+47 内蒙古卫视 http://60.6.255.8:2180/live/nmgws/index.m3u8
+48 青海卫视 http://60.6.255.8:2180/live/qhws/index.m3u8
+49 旅游卫视 http://60.6.255.8:2180/live/lyws/index.m3u8
+50 宁夏卫视 http://60.6.255.8:2180/live/nxws/index.m3u8
+51 甘肃卫视 http://60.6.255.8:2180/live/gsws/index.m3u8
+52 卡酷少儿 http://60.6.255.8:2180/live/kkse/index.m3u8
+53 金鹰卡通 http://60.6.255.8:2180/live/jykt/index.m3u8
+54 第一剧场 http://60.6.255.8:2180/live/dyjc/index.m3u8
+55 风云剧场 http://60.6.255.8:2180/live/fyjc/index.m3u8
+56 怀旧剧场 http://60.6.255.8:2180/live/hjjc/index.m3u8
+57 风云音乐 http://60.6.255.8:2180/live/fyyy/index.m3u8
+58 风云足球 http://60.6.255.8:2180/live/fyzq/index.m3u8
+59 高尔夫网球 http://60.6.255.8:2180/live/gefwq/index.m3u8
+60 武术世界 http://60.6.255.8:2180/live/wssj/index.m3u8
+61 国防军事 http://60.6.255.8:2180/live/gfjs/index.m3u8
+62 世界地理 http://60.6.255.8:2180/live/sjdl/index.m3u8
+63 汽摩 http://60.6.255.8:2180/live/qimo/index.m3u8
+64 老故事 http://60.6.255.8:2180/live/lgsh/index.m3u8
+65 环球奇观 http://60.6.255.8:2180/live/hqqg/index.m3u8
+66 文物宝库 http://60.6.255.8:2180/live/wwbk/index.m3u8
+67 国学频道 http://60.6.255.8:2180/live/gxpd/index.m3u8
+68 茶频道 http://60.6.255.8:2180/live/chapd/index.m3u8
+69 女新时尚 http://60.6.255.8:2180/live/nxss/index.m3u8
+70 文化精品 http://60.6.255.8:2180/live/whjp/index.m3u8
+71 梨园频道 http://60.6.255.8:2180/live/lypd/index.m3u8
+72 新闻综合 http://60.6.255.8:2180/live/xwzh/index.m3u8
+73 纪实-HD http://60.6.255.8:2180/live/jishhd/index.m3u8
+74 邢台综合 http://60.6.255.8:2180/live/hbxtzh/index.m3u8
+75 邢台公共 http://60.6.255.8:2180/live/hbxtgg/index.m3u8
+76 快乐垂钓 http://60.6.255.8:2180/live/klcd/index.m3u8
+77 CCTV5+HD http://60.6.255.8:2180/live/cctv5q/index.m3u8
+78 睛彩河北 http://60.6.255.8:2180/live/qchb/index.m3u8
+79 早期教育 http://60.6.255.8:2180/live/zqjy/index.m3u8
+80 CCTV-17 http://60.6.255.8:2180/live/cctv17/index.m3u8
+81 陶瓷频道 http://60.6.255.8:2180/live/tcpd/index.m3u8
+82 求索纪录 http://60.6.255.8:2180/live/qsjl/index.m3u8
+
 
 🌍台湾频道V4,#genre#
 
