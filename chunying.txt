@@ -1,8 +1,8 @@
 📡永久免费👉公告,#genre#
-🎉春🎉20240415,http://live-cmvideo.cmread.com:80/migu/kailu/cctv13/57/20220913/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8c9a1b49296e1bb073f1c7c04835b378#http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel39/2300.m3u8#http://wshls.live.migucloud.com/live/QB8SRKL9_C0/playlist.m3u8
-🎉盈🎉请勿购买,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8#http://1.62.64.76/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/tlive-test-cdn.ysp.cctv.cn/ysp/2022576803.m3u8#https://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8?aliyun_uuid=b3b8e538-3470-4fa0-b6ed-2b138e5f5fef&auth_key=2145888000-0-0-fda7ddb73d3cb5ac5bddf4eeba9b665e#http://110.249.196.71/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
-🎉天🎉谨防受骗,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8#https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-🎉下🎉如果付款,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+🎉重🎉20240417,http://live-cmvideo.cmread.com:80/migu/kailu/cctv13/57/20220913/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8c9a1b49296e1bb073f1c7c04835b378#http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel39/2300.m3u8#http://wshls.live.migucloud.com/live/QB8SRKL9_C0/playlist.m3u8
+🎉温🎉请勿购买,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8#http://1.62.64.76/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/tlive-test-cdn.ysp.cctv.cn/ysp/2022576803.m3u8#https://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8?aliyun_uuid=b3b8e538-3470-4fa0-b6ed-2b138e5f5fef&auth_key=2145888000-0-0-fda7ddb73d3cb5ac5bddf4eeba9b665e#http://110.249.196.71/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
+🎉春🎉谨防受骗,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8#https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+🎉盈🎉如果付款,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 🎉公🎉说明上当,http://43.138.170.29:35455/douyu/276200
 🎉告🎉申请退款,http://diyp.112114.xyz/douyu/8770422
 👉👉把家里路由器,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
@@ -17,8 +17,10 @@
 凤凰中文频道,http://mywlkj.ddns.net:754/tv/fhzw.m3u8 
 凤凰中文频道,http://146.56.153.245:20121/bysid/258
 凤凰中文频道,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
+凤凰中文频道,http://www.cdtriot.cn:9999/udp/239.93.0.162:2192
 凤凰中文频道,http://222.209.49.12:8088/rtp/239.93.0.162:2192
 凤凰中文频道,http://222.209.49.12:8088/rtp/239.93.1.9:2192
+凤凰中文频道,http://112.19.171.156:9999/udp/239.93.0.162:2192
 
 凤凰资讯频道,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯频道,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
@@ -26,8 +28,10 @@
 凤凰资讯频道,http://146.56.153.245:20121/bysid/257
 凤凰资讯频道,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
 凤凰资讯频道,http://61.221.215.25:8800/hls/47/index.m3u8
+凤凰资讯频道,http://www.cdtriot.cn:9999/udp/239.93.0.118:2191
 凤凰资讯频道,http://222.209.49.12:8088/rtp/239.93.0.118:2191
 凤凰资讯频道,http://222.209.49.12:8088/rtp/239.93.1.4:2191
+凤凰资讯频道,http://www.cdtriot.cn:9999/udp/239.93.0.118:2191
 
 无线新闻频道,http://154.yfvodcdn.com:8080/live/TVBtyzxt1/hls.m3u8
 无线新闻频道,http://154.yfvodcdn.com:8080/live/TVBwxxwt/hls.m3u8
@@ -85,6 +89,25 @@ TVB翡翠频道,http://58.87.99.251:8090/HK/tvb/hls.m3u8
 🇨🇳央视频道👉天下,#genre#
 人民铁道,http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
 郑铁有线,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
+CCTV1,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel1/index.m3u8
+CCTV2,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel2/index.m3u8
+CCTV3,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel3/index.m3u8
+CCTV4,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel4/index.m3u8
+CCTV5,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel5/index.m3u8
+CCTV5+,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel13/index.m3u8
+CCTV6,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel6/index.m3u8
+CCTV7,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel7/index.m3u8
+CCTV8,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel8/index.m3u8
+CCTV9,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel9/index.m3u8
+CCTV10,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel10/index.m3u8
+CCTV11,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel41/index.m3u8
+CCTV12,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel11/index.m3u8
+CCTV13,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel39/index.m3u8
+CCTV14,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel12/index.m3u8
+CCTV15,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel40/index.m3u8
+CTV17,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel90/index.m3u8
+
+
 CCTV1,http://113.98.122.166:9901/tsfile/live/1001_1.m3u8?key=txiptv
 CCTV2,http://113.98.122.166:9901/tsfile/live/1002_1.m3u8?key=txiptv
 CCTV3,http://113.98.122.166:9901/tsfile/live/1003_1.m3u8?key=txiptv
@@ -334,6 +357,56 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 扬州邗江,https://cm-wshls.homecdn.com/live/8c3.m3u8
 
 📡卫视频道👉全网,#genre#
+广东卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel16/index.m3u8
+江苏卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel18/index.m3u8
+深圳卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel17/index.m3u8
+浙江卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel19/index.m3u8
+吉林卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel20/index.m3u8
+湖北卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel21/index.m3u8
+江西卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel22/index.m3u8
+安徽卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel23/index.m3u8
+北京卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel24/index.m3u8
+湖南卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel25/index.m3u8
+东方卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel26/index.m3u8
+黑龙江卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel27/index.m3u8
+天津卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel28/index.m3u8
+贵州卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel30/index.m3u8
+四川卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel31/index.m3u8
+辽宁卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel32/index.m3u8
+山西卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel54/index.m3u8
+重庆卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel56/index.m3u8
+甘肃卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel57/index.m3u8
+广西卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel59/index.m3u8
+青海卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel60/index.m3u8
+云南卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel61/index.m3u8
+新疆卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel64/index.m3u8
+西藏卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel66/index.m3u8
+兵团卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel67/index.m3u8
+宁夏卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel69/index.m3u8
+河南卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel78/index.m3u8
+河北卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel79/index.m3u8
+东南卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel80/index.m3u8
+金鹰卡通,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel81/index.m3u8
+内蒙古卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel93/index.m3u8
+湖南教育,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43021/index.m3u8
+湖南经视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43024/index.m3u8
+金鹰卡通,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43025/index.m3u8
+湖南娱乐,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43027/index.m3u8
+湖南都市,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43028/index.m3u8
+茶频道,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43030/index.m3u8
+湖南电影,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43029/index.m3u8
+乐游,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43040/index.m3u8
+欢笑剧场,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43039/index.m3u8
+生活时尚,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43043/index.m3u8
+东方财经,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43044/index.m3u8
+动漫秀场,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43045/index.m3u8
+CHC高清电影,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
+湖南爱晚,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43080/index.m3u8
+魅力足球,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43083/index.m3u8
+劲爆体育,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43084/index.m3u8
+都市剧场,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43085/index.m3u8
+金鹰纪实,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43087/index.m3u8
+
 七星关台,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
 道真新闻,http://live.dzrmtzx.org.cn:90/live/dspd_1M.m3u8
 松桃新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8
@@ -590,6 +663,12 @@ CGTN俄语,http://pi.0472.org/live/cgtnr.m3u8?token=240413
 海南卫视,http://pi.0472.org/live/hinws.m3u8?token=240413
 
 📡卫视频道👉组播,#genre#
+CHC动作频道,http://www.cdtriot.cn:9999/udp/239.93.42.7:5140
+CCTV8高清台,http://www.cdtriot.cn:9999/udp/239.93.42.39:5140
+广东卫视高清,http://218.18.4.72:8888/udp/239.77.0.84:5146
+深圳都市频道,http://218.18.4.72:8888/rtp/239.77.1.176:5146?Cf=cfss.cc
+广东珠江超清,http://218.18.4.72:8888/rtp/239.77.0.114:5146?Cf=cfss.cc
+海南卫视高清,http://112.66.231.204:554/rtp/239.253.64.253:5140?Cf=cfss.cc
 四川卫视高清,http://222.209.49.12:8088/rtp/239.93.0.20:1235
 CDTV-1高清,http://222.209.49.12:8088/rtp/239.93.0.16:5140
 湖南卫视高清,http://222.209.49.12:8088/rtp/239.93.0.88:5140
