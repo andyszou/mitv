@@ -28,6 +28,10 @@ CCTV-8K超高清,https://tv.cry33.com/ys4k.php?id=8k25#https://tv.cry33.com/ys4k
 上海纪实人文,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 北京纪实科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 
+凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
+凤凰香港,http://60.164.229.241:4040/udp/239.255.30.123:8231
+
 凤凰资讯,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
 凤凰资讯,http://103.95.24.37:880/fhzx.m3u8
 凤凰资讯,https://tv.sd.cn/sichuan?id=239.93.0.118:2191
@@ -133,6 +137,7 @@ TVB星河频道,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 
+中天新闻,http://66.165.240.154:8080/live/ztylt01/hls.m3u8
 中天新闻,http://mywlkj.ddns.net:754/tv/tw2.php?id=15
 中天新闻,http://mywlkj.ddns.net:754/tv/youtube.php?id=2 
 中天新闻2,http://mywlkj.ddns.net:754/tv/tw2.php?id=16
@@ -643,53 +648,6 @@ iPanda基地别墅2,http://gcalic.v.myalicdn.com/gc/xiongmao10_1/index.m3u8
 iPanda基地成年园1,http://gcalic.v.myalicdn.com/gc/xiongmao01_1/index.m3u8
 iPanda基地母子园1,http://gcalic.v.myalicdn.com/gc/xiongmao07_1/index.m3u8
 
-🌍央视频源V4,#genre#
-CCTV1,video://https://yangshipin.cn/#/tv/home?pid=600001859
-CCTV2,video://https://yangshipin.cn/#/tv/home?pid=600001800
-
-CCTV4,video://https://yangshipin.cn/#/tv/home?pid=600001814
-CCTV5,video://https://yangshipin.cn/#/tv/home?pid=600001818
-CCTV5+,video://https://yangshipin.cn/#/tv/home?pid=600001817
-
-CCTV7,video://https://yangshipin.cn/#/tv/home?pid=600004092
-
-CCTV9,video://https://yangshipin.cn/#/tv/home?pid=600004078
-CCTV10,video://https://yangshipin.cn/#/tv/home?pid=600001805
-CCTV11,video://https://yangshipin.cn/#/tv/home?pid=600001806
-CCTV12,video://https://yangshipin.cn/#/tv/home?pid=600001807
-CCTV13,video://https://yangshipin.cn/#/tv/home?pid=600001811
-CCTV14,video://https://yangshipin.cn/#/tv/home?pid=600001809
-CCTV15,video://https://yangshipin.cn/#/tv/home?pid=600001815
-CCTV16,video://https://yangshipin.cn/#/tv/home?pid=600098637
-CCTV17,video://https://yangshipin.cn/#/tv/home?pid=600001810
-CCTV4k,video://https://yangshipin.cn/#/tv/home?pid=600002264
-CGTN,video://https://yangshipin.cn/#/tv/home?pid=600014550
-CGTN外语纪录,video://https://yangshipin.cn/#/tv/home?pid=600084781
-CGTN法语,video://https://yangshipin.cn/#/tv/home?pid=600084704
-CGTN俄语,video://https://yangshipin.cn/#/tv/home?pid=600084758
-CGTN阿拉伯语,video://https://yangshipin.cn/#/tv/home?pid=600084782
-CGTN西班牙语,video://https://yangshipin.cn/#/tv/home?pid=600002503
-浙江卫视高清,video://https://yangshipin.cn/#/tv/home?pid=600002520
-湖南卫视高清,video://https://yangshipin.cn/#/tv/home?pid=600002475
-东方卫视高清,video://https://yangshipin.cn/#/tv/home?pid=600002483
-江苏卫视高清,video://https://yangshipin.cn/#/tv/home?pid=600002521
-北京卫视高清,video://https://yangshipin.cn/#/tv/home?pid=600002309
-江西卫视高清,video://https://yangshipin.cn/#/tv/home?pid=600002503
-河南卫视高清,video://https://yangshipin.cn/#/tv/home?pid=600002525
-湖北卫视高清,video://https://yangshipin.cn/#/tv/home?pid=600002508
-山东卫视高清,video://https://yangshipin.cn/#/tv/home?pid=600002513
-广东卫视高清,video://https://yangshipin.cn/#/tv/home?pid=600002485
-广西卫视高清,video://https://yangshipin.cn/#/tv/home?pid=600002509
-重庆卫视高清,video://https://yangshipin.cn/#/tv/home?pid=600002531   
-河北卫视高清,video://https://yangshipin.cn/#/tv/home?pid=600002493  
-贵州卫视高清,video://https://yangshipin.cn/#/tv/home?pid=600002490
-安徽卫视高清,video://https://yangshipin.cn/#/tv/home?pid=600002532  
-深圳卫视高清,video://https://yangshipin.cn/#/tv/home?pid=600002481
-四川卫视高清,video://https://yangshipin.cn/#/tv/home?pid=600002516
-东南卫视高清,video://https://yangshipin.cn/#/tv/home?pid=600002484  
-海南卫视高清,video://https://yangshipin.cn/#/tv/home?pid=600002506
-辽宁卫视高清,video://https://yangshipin.cn/#/tv/home?pid=600002505    
-黑龙江卫视高清,video://https://yangshipin.cn/#/tv/home?pid=600002498
 
 
 🌍台湾频道V4,#genre#
