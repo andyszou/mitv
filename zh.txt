@@ -43,11 +43,8 @@ CCTV-10科教,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
 CCTV-13新闻,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 
 
-凤凰中文频道,http://118.114.96.20:8889/rtp/239.93.1.9:2192
-凤凰中文频道,http://118.114.96.20:8889/udp/239.93.0.162:2192
-
-凤凰资讯频道,http://118.114.96.20:8889/rtp/239.93.0.118:2191?
-凤凰资讯频道,http://118.114.96.20:8889/udp/239.93.1.4:2191?
+凤凰资讯,http://118.114.96.20:8889/rtp/239.93.0.118:2191?
+凤凰资讯,http://118.114.96.20:8889/udp/239.93.1.4:2191?
 
 凤凰资讯,http://kuanglong.vicp.hk:2121/udp/239.93.16.118:8708$OK1
 凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191$OK2
@@ -61,6 +58,9 @@ CCTV-13新闻,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 凤凰资讯,http://183.141.197.192:58888/rtp/233.50.200.192:5140
 凤凰资讯,http://nas.8211321.com:5555/rtp/239.61.2.183:9086
 
+凤凰中文,http://118.114.96.20:8889/rtp/239.93.1.9:2192
+凤凰中文,http://118.114.96.20:8889/udp/239.93.0.162:2192
+
 凤凰中文,http://kuanglong.vicp.hk:2121/udp/239.93.16.31:8012
 凤凰中文,http://112.19.171.156:9999/udp/239.93.0.162:2192
 凤凰中文,http://giwon.ddns.net:5555/udp/239.93.0.162:2192
@@ -70,6 +70,7 @@ CCTV-13新闻,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://nas.8211321.com:5555/rtp/239.61.2.184:9092
 
+
 凤凰香港,http://183.204.13.13/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://146.56.153.245:20121/bysid/259
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -77,12 +78,12 @@ CCTV-13新闻,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰香港,http://113.64.145.91:8081/hls/38/index.m3u8
 
-中天新闻,http://107.174.133.144:2095/live.m3u8?c=7
-中天新闻,http://154.yfvodcdn.com:8080/live/ztylt01/hls.m3u8
-中天新闻,http://154.yfvodcdn.com:8080/live/ztylt02/hls.m3u8
+中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7$OK
+中天新闻,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
+中天新闻,http://66.165.240.154:8080/live/ztylt01/hls.m3u8$OK
 
 //飞龙
-中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
+
 中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
 台視新闻,http://livetv.skycf.eu.org/live.m3u8?c=4
 TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
@@ -108,8 +109,7 @@ TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
 凤凰中文,http://112.19.171.156:9999/udp/239.93.0.162:2192
 凤凰中文,https://s2.pub/cctv-2
 凤凰香港,https://s2.pub/cctv-1
-中天新闻,http://112.29.107.125:8182/TW/ztxw/hls.m3u8
-中天新闻,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
+
 壹电视新闻,mitv://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
 年代新闻,mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
 东森新闻,mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
@@ -126,21 +126,7 @@ TVB星河频道,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 
-中天新闻,http://66.165.240.154:8080/live/ztylt01/hls.m3u8
-中天新闻,http://mywlkj.ddns.net:754/tv/tw2.php?id=15
-中天新闻,http://mywlkj.ddns.net:754/tv/youtube.php?id=2 
-中天新闻2,http://mywlkj.ddns.net:754/tv/tw2.php?id=16
-中天新闻2,http://mywlkj.ddns.net:754/tv/youtube.php?id=1 
-中视新闻,http://mywlkj.ddns.net:754/tv/tw2.php?id=14 
-中天新闻,http://8848.iptv8.top/微信公众号：阿猫电视/xxx/live.php?id=ztxw
-中天新闻,zlive://173.208.209.114:7719/9011998207735731140a6271e559d549
-中天新闻,zlive://173.208.209.114:7719/6cbf5b995ccd82f89c12e860e5d734bb
-中天新闻,http://38.207.160.104:11012/live.php?date=231108&id=cti-news
-中天新闻,https://i.125011.xyz/live.php?auth=230930&id=ztxw
-中天新闻,http://38.207.160.104:11012/live.php?date=231108&id=cti-news
-中天新闻,http://154.36.187.125/蓝山.php?cid=live1015&p=5003
-中天新闻,rtmp://pull-f5-spe.ixigua.com/live/vtkspkgtvvzdgyiuuikfvbscvgjktwdfsadsaqrcvuyremgeztxw
-中天新闻,http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
+
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 澳视卫星,http://tdm.jdshipin.com/ch3/ch3.live/playlist.m3u8
 澳视卫星,http://61.244.22.5/ch3/ch3.live/index.m3u8
@@ -150,20 +136,20 @@ TVB星河频道,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 凤凰卫视美洲,https://h5cdn397.kylintv.tv/live/pxnaus_iphone.m3u8
 民视HD,https://h5cdn397.kylintv.tv/live/formosatv_iphone.m3u8
 华视HD,https://h5cdn397.kylintv.tv/live/ctshd_iphone.m3u8
-中天新闻,https://h5cdn397.kylintv.tv/live/cti_iphone.m3u8
 
-中天新聞台,https://234003.xyz/watch?v=oIgbl7t0S_w
-中天新聞2台,https://234003.xyz/watch?v=WPfPjbOLNfE
 TVBS新聞台,https://234003.xyz/watch?v=2mCSYvcfhtc
 東森新聞,https://234003.xyz/watch?v=2dfAzcDf8Zg
 三立新聞,https://234003.xyz/watch?v=oZdzzvxTfUY
 寰宇新聞台,https://234003.xyz/watch?v=w87VGpgd90U
 民視新聞台,https://234003.xyz/watch?v=ylYJSBUgaMA
 
-中天新闻2,http://154.yfvodcdn.com:8080/live/ztylt02/hls.m3u8
+
 三立新闻+,http://154.yfvodcdn.com:8080/live/slxw02/hls.m3u8
 台视新闻,http://154.yfvodcdn.com:8080/live/tyxltsxw3/hls.m3u8
-中天新闻,http://58.87.99.251:8090/HK/ztxw/hls.m3u8
+
+
+🌄wan湾测试,#genre#
+
 
 🌍央卫单播V4,#genre#
 CCTV1,http://60.6.255.8:2180/live/cctv1/index.m3u8
@@ -1589,9 +1575,9 @@ TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 
 🔥YY直播频道,#genre#
 
+993舞蹈,http://11.xmyxc.cn/api/php/yy.php?id=22490906
 993舞蹈,http://43.138.170.29:35455/yy/22490906
 993舞蹈,https://lunbo.freetv.top/yy/22490906
-993舞蹈,http://11.xmyxc.cn/api/php/yy.php?id=22490906
 
 性感尤物S曲线娅儿（跳舞厉害）,http://43.138.170.29:35455/yy/23239341
 燃舞蹈-小泥鳅,http://43.138.170.29:35455/yy/1354314350
