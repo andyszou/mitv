@@ -1,5 +1,5 @@
 ﻿📡永久免费👉公告,#genre#
-🎉春🎉20240519,http://live-cmvideo.cmread.com:80/migu/kailu/cctv13/57/20220913/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8c9a1b49296e1bb073f1c7c04835b378#http://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8#http://live.dxms.top:80/dwy/news.php#http://wshls.live.migucloud.com/live/QB8SRKL9_C0/playlist.m3u8
+🎉春🎉20240520,http://live-cmvideo.cmread.com:80/migu/kailu/cctv13/57/20220913/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8c9a1b49296e1bb073f1c7c04835b378#http://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8#http://live.dxms.top:80/dwy/news.php#http://wshls.live.migucloud.com/live/QB8SRKL9_C0/playlist.m3u8
 🎉盈🎉请勿购买,http://live.dxms.top:80/dwy/mgak.php#https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8#http://193.lijinhui.asia:8888/rtp/239.254.97.96:8550
 🎉天🎉谨防受骗,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8#https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 🎉下🎉如果付款,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
@@ -12,33 +12,51 @@
 👉👉更换享受超清,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
 
 🇨🇳中国港澳👉春盈,#genre#
-
 凤凰中文频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰中文频道,http://43.141.130.51/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰中文频道,http://www.cdtriot.cn:9999/udp/239.93.0.162:2192
 凤凰中文频道,http://112.19.171.156:9999/udp/239.93.0.162:2192
-凤凰中文频道,http://118.114.96.20:8889/rtp/239.93.1.9:2192
-凤凰中文频道,http://118.114.96.20:8889/udp/239.93.0.162:2192
-凤凰中文频道,http://125.210.150.58:9090/live/hszx-fhzw-h264.m3u8
-凤凰中文频道,http://146.56.153.245:20121/bysid/258
 
 凤凰资讯频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰资讯频道,http://43.141.130.51/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
-凤凰资讯频道,http://61.221.215.25:8800/hls/47/index.m3u8
 凤凰资讯频道,http://www.cdtriot.cn:9999/udp/239.93.0.118:2191
 凤凰资讯频道,http://112.19.171.156:9999/udp/239.93.0.118:2191
-凤凰资讯频道,http://118.114.96.20:8889/rtp/239.93.0.118:2191?
-凤凰资讯频道,http://118.114.96.20:8889/udp/239.93.1.4:2191?
-凤凰资讯频道,http://125.210.150.58:9090/live/hszx-fhzw-h264.m3u8
-凤凰资讯频道,http://146.56.153.245:20121/bysid/257
+凤凰资讯频道,http://103.95.24.37:880/fhzx.m3u8
+
+香港無綫新聞,http://113.83.152.28:1935/bysid/83
+*HOY資訊频道,http://113.83.152.28:1936/bysid/78
+香港凤凰频道,http://113.83.152.28:1935/bysid/85
+香港明珠频道,http://113.83.152.28:1935/bysid/2
+*HOY國際频道,http://113.83.152.28:1936/bysid/76
+*HOYTV频道台,http://113.83.152.28:1936/bysid/77
+TVB香港台频道,http://113.83.152.28:1935/bysid/82
+
+香港無綫新聞,http://zsntlqj.xicp.net:8896/bysid/83
+香港凤凰频道,http://zsntlqj.xicp.net:8896/bysid/85
+TVB香港台频道,http://zsntlqj.xicp.net:8896/bysid/82
+香港明珠频道,http://zsntlqj.xicp.net:8896/bysid/83
+
+香港無綫新聞,http://119.136.122.157:8001/bysid/83
+香港凤凰频道,http://119.136.122.157:8001/bysid/85
+香港翡翠频道,http://119.136.122.157:8000/bysid/1
+香港明珠频道,http://119.136.122.157:8001/bysid/2
+TVB香港台频道,http://119.136.122.157:8001/bysid/82
+香港31台高清,http://119.136.122.157:8002/bysid/31
+香港32台高清,http://119.136.122.157:8002/bysid/32
+香港33台高清,http://119.136.122.157:8002/bysid/33
+香港34台高清,http://119.136.122.157:8002/bysid/34
+ViuTVsix频道,http://119.136.122.157:8000/bysid/96
+ViuTV香港台,http://119.136.122.157:8000/bysid/99
+
 
 香港無綫新聞,http://123.202.245.120:8008/bysid/83
+香港凤凰频道,http://hikvision.city:880/fhxgt.m3u8
 香港凤凰频道,http://123.202.245.120:8008/bysid/85
+香港凤凰频道,http://kuanglong.vicp.hk:2121/udp/239.93.16.31:8012
 HOY 資訊频道,http://123.202.245.120:8009/bysid/78
 國際財經频道,http://123.202.245.120:8009/bysid/76
 HOY TV  频道,http://123.202.245.120:8009/bysid/77
 香港明珠频道,http://123.202.245.120:8008/bysid/2
 香港TVB Plus,http://123.202.245.120:8008/bysid/82
+香港翡翠频道,http://zsntlqj.xicp.net:8895/bysid/1
 无线星河频道,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 欧洲华文频道,http://vvlive.eztv.vip/hwetnew/hwetnew.m3u8?auth_key=1710810771-0-0-c5ce71079eaa4d245127b05375ae371f
 星空卫视频道,http://wouu.net:9977/udp/239.93.0.156:2193
@@ -63,11 +81,32 @@ HOY TV  频道,http://123.202.245.120:8009/bysid/77
 4K「时尚」台,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 4K「自然」台,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 4K测试频道台,http://tvbox.mohuajz.eu.org/tv/hnsqyx.php?id=52
-
+4K河南卫视台,http://123.13.247.100:4000/rtp/225.1.4.254:1300
 🇨🇳央视频道👉天下,#genre#
 人民铁道台,http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
 郑铁有线台,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
+
+CCTV1综合,http://222.218.158.90:8181/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV2财经,http://222.218.158.90:8181/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV3综艺,http://222.218.158.90:8181/tsfile/live/0003_1.m3u8?key=txiptv
+CCTV4国际,http://222.218.158.90:8181/tsfile/live/0004_1.m3u8?key=txiptv
+CCTV5体育,http://222.218.158.90:8181/tsfile/live/0005_1.m3u8?key=txiptv
+CCTV5+体育,http://222.218.158.90:8181/tsfile/live/0016_1.m3u8?key=txiptv
+CCTV6电影,http://222.218.158.90:8181/tsfile/live/0006_1.m3u8?key=txiptv
+CCTV7军农,http://222.218.158.90:8181/tsfile/live/0007_1.m3u8?key=txiptv
+CCTV8电视,http://222.218.158.90:8181/tsfile/live/0008_1.m3u8?key=txiptv
+CCTV9纪录,http://222.218.158.90:8181/tsfile/live/0009_1.m3u8?key=txiptv
+CCTV10科教,http://222.218.158.90:8181/tsfile/live/0010_1.m3u8?key=txiptv
+CCTV11戏曲,http://222.218.158.90:8181/tsfile/live/0011_1.m3u8?key=txiptv
+CCTV12社会,http://222.218.158.90:8181/tsfile/live/0012_1.m3u8?key=txiptv
+CCTV13新闻,http://222.218.158.90:8181/tsfile/live/0013_1.m3u8?key=txiptv
+CCTV14少儿,http://222.218.158.90:8181/tsfile/live/0014_1.m3u8?key=txiptv
+CCTV15音乐,http://222.218.158.90:8181/tsfile/live/0015_1.m3u8?key=txiptv
+CCTV16奥林,http://222.218.158.90:8181/tsfile/live/1021_1.m3u8?key=txiptv
+CCTV17农业,http://222.218.158.90:8181/tsfile/live/0019_1.m3u8?key=txiptv
+
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV-1综合,http://tvpull.dxhmt.cn/tv/11081-2.m3u8
 CCTV-1综合,http://193.lijinhui.asia:8888/rtp/239.254.97.96:8550
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8
 CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
@@ -182,6 +221,147 @@ CCtv英语,http://180.167.104.105:9901/tsfile/live/1037_1.m3u8
 动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 📡湾湾频道👉全网,#genre#
+TVBS新闻,http://live.9528.eu.org/4gtv.php?channel=291
+东森新闻台,http://live.9528.eu.org/4gtv.php?channel=292
+东森财经新闻台,http://live.9528.eu.org/4gtv.php?channel=293
+中天新闻台,http://live.9528.eu.org/4gtv.php?channel=30
+民视新闻台,http://live.9528.eu.org/4gtv.php?channel=31
+中视新闻,http://live.9528.eu.org/4gtv.php?channel=33
+华视新闻,http://live.9528.eu.org/4gtv.php?channel=34
+寰宇新闻台,http://live.9528.eu.org/4gtv.php?channel=36
+民视第一台,http://live.9528.eu.org/4gtv.php?channel=1
+民视台湾台,http://live.9528.eu.org/4gtv.php?channel=2
+民视,http://live.9528.eu.org/4gtv.php?channel=3
+中视,http://live.9528.eu.org/4gtv.php?channel=4
+华视,http://live.9528.eu.org/4gtv.php?channel=6
+公视戏剧,http://live.9528.eu.org/4gtv.php?channel=7
+民视第一台,http://live.9528.eu.org/4gtv.php?channel=254
+民视台湾台,http://live.9528.eu.org/4gtv.php?channel=255
+华视新闻,http://live.9528.eu.org/4gtv.php?channel=256
+民视新闻台,http://live.9528.eu.org/4gtv.php?channel=257
+中视新闻,http://live.9528.eu.org/4gtv.php?channel=258
+中天新闻台,http://live.9528.eu.org/4gtv.php?channel=260
+亚洲旅游台,http://live.9528.eu.org/4gtv.php?channel=261
+镜电视新闻台,http://live.9528.eu.org/4gtv.php?channel=268
+好消息2台,http://live.9528.eu.org/4gtv.php?channel=8
+好消息,http://live.9528.eu.org/4gtv.php?channel=9
+达文西频道,http://live.9528.eu.org/4gtv.php?channel=11
+靖天卡通台,http://live.9528.eu.org/4gtv.php?channel=15
+民视综艺台,http://live.9528.eu.org/4gtv.php?channel=16
+爱尔达娱乐台,http://live.9528.eu.org/4gtv.php?channel=19
+靖天综合台,http://live.9528.eu.org/4gtv.php?channel=21
+靖天日本台,http://live.9528.eu.org/4gtv.php?channel=22
+龙华戏剧台,http://live.9528.eu.org/4gtv.php?channel=23
+民视影剧台,http://live.9528.eu.org/4gtv.php?channel=24
+采昌影剧台,http://live.9528.eu.org/4gtv.php?channel=25
+龙华日韩台,http://live.9528.eu.org/4gtv.php?channel=28
+
+视纳华仁纪实频道,http://live.9528.eu.org/4gtv.php?channel=38
+amc电影台,http://live.9528.eu.org/4gtv.php?channel=39
+影迷数位电影台,http://live.9528.eu.org/4gtv.php?channel=40
+靖天映画,http://live.9528.eu.org/4gtv.php?channel=42
+博斯高球台,http://live.9528.eu.org/4gtv.php?channel=48
+博斯运动一台,http://live.9528.eu.org/4gtv.php?channel=50
+博斯无限台,http://live.9528.eu.org/4gtv.php?channel=51
+博斯网球台,http://live.9528.eu.org/4gtv.php?channel=52
+TRACE Sport Stars,http://live.9528.eu.org/4gtv.php?channel=57
+智林体育台,http://live.9528.eu.org/4gtv.php?channel=58
+靖洋卡通Nice Bingo,http://live.9528.eu.org/4gtv.php?channel=59
+i-Fun动漫台,http://live.9528.eu.org/4gtv.php?channel=60
+民视旅游台,http://live.9528.eu.org/4gtv.php?channel=61
+时尚运动X,http://live.9528.eu.org/4gtv.php?channel=69
+TRACE Urban,http://live.9528.eu.org/4gtv.php?channel=78
+Mezzo Live HD,http://live.9528.eu.org/4gtv.php?channel=79
+CLASSICA 古典乐,http://live.9528.eu.org/4gtv.php?channel=80
+靖天电影台,http://live.9528.eu.org/4gtv.php?channel=82
+靖天育乐台,http://live.9528.eu.org/4gtv.php?channel=83
+KLT-靖天国际台,http://live.9528.eu.org/4gtv.php?channel=84
+半岛国际新闻台,http://live.9528.eu.org/4gtv.php?channel=85
+VOA美国之音,http://live.9528.eu.org/4gtv.php?channel=86
+靖天资讯台,http://live.9528.eu.org/4gtv.php?channel=88
+凤梨直击台,http://live.9528.eu.org/4gtv.php?channel=93
+香蕉直击台,http://live.9528.eu.org/4gtv.php?channel=94
+ELTV生活英语台,http://live.9528.eu.org/4gtv.php?channel=106
+客家电视台,http://live.9528.eu.org/4gtv.php?channel=107
+猪哥亮歌厅秀,http://live.9528.eu.org/4gtv.php?channel=113
+八大综艺台,http://live.9528.eu.org/4gtv.php?channel=114
+靖天戏剧台,http://live.9528.eu.org/4gtv.php?channel=116
+靖洋戏剧台,http://live.9528.eu.org/4gtv.php?channel=118
+Nice TV 靖天欢乐台,http://live.9528.eu.org/4gtv.php?channel=119
+龙华电影台,http://live.9528.eu.org/4gtv.php?channel=121
+中视菁采台,http://live.9528.eu.org/4gtv.php?channel=123
+中视经典台,http://live.9528.eu.org/4gtv.php?channel=124
+Love Nature,http://live.9528.eu.org/4gtv.php?channel=139
+车迷TV,http://live.9528.eu.org/4gtv.php?channel=160
+幸福空间居家台,http://live.9528.eu.org/4gtv.php?channel=168
+三立综合台,http://live.9528.eu.org/4gtv.php?channel=169
+国会频道1,http://live.9528.eu.org/4gtv.php?channel=170
+国会频道2,http://live.9528.eu.org/4gtv.php?channel=171
+八大精彩台,http://live.9528.eu.org/4gtv.php?channel=172
+东森购物一台,http://live.9528.eu.org/4gtv.php?channel=173
+东森购物二台,http://live.9528.eu.org/4gtv.php?channel=174
+LUXE TV Channel,http://live.9528.eu.org/4gtv.php?channel=175
+My Cinema Europe HD 我的欧洲电影,http://live.9528.eu.org/4gtv.php?channel=176
+TV5MONDE STYLE HD 生活时尚,http://live.9528.eu.org/4gtv.php?channel=178
+GINX Esports TV,http://live.9528.eu.org/4gtv.php?channel=179
+ROCK Action,http://live.9528.eu.org/4gtv.php?channel=180
+TechStorm,http://live.9528.eu.org/4gtv.php?channel=181
+Pet Club TV,http://live.9528.eu.org/4gtv.php?channel=182
+TVBS,http://live.9528.eu.org/4gtv.php?channel=183
+TVBS欢乐台,http://live.9528.eu.org/4gtv.php?channel=184
+尼克儿童频道,http://live.9528.eu.org/4gtv.php?channel=185
+HITS频道,http://live.9528.eu.org/4gtv.php?channel=186
+LiveABC互动英语频道,http://live.9528.eu.org/4gtv.php?channel=188
+ARIRANG阿里郎频道,http://live.9528.eu.org/4gtv.php?channel=189
+经典电影台,http://live.9528.eu.org/4gtv.php?channel=201
+经典卡通台,http://live.9528.eu.org/4gtv.php?channel=202
+精选动漫台,http://live.9528.eu.org/4gtv.php?channel=204
+大爱电视,http://live.9528.eu.org/4gtv.php?channel=209
+人间卫视,http://live.9528.eu.org/4gtv.php?channel=210
+影迷数位纪实台,http://live.9528.eu.org/4gtv.php?channel=212
+MTV Live HD 音乐频道,http://live.9528.eu.org/4gtv.php?channel=213
+History 历史频道,http://live.9528.eu.org/4gtv.php?channel=214
+CI 罪案侦查频道,http://live.9528.eu.org/4gtv.php?channel=215
+Lifetime 娱乐频道,http://live.9528.eu.org/4gtv.php?channel=217
+电影原声台CMusic,http://live.9528.eu.org/4gtv.php?channel=218
+Nick Jr. 儿童频道,http://live.9528.eu.org/4gtv.php?channel=219
+XTR亚太台,http://live.9528.eu.org/4gtv.php?channel=223
+SBN全球财经台,http://live.9528.eu.org/4gtv.php?channel=224
+CinemaWorld,http://live.9528.eu.org/4gtv.php?channel=225
+DW德国之声,http://live.9528.eu.org/4gtv.php?channel=226
+TVBS精采台,http://live.9528.eu.org/4gtv.php?channel=227
+三立新闻iNEWS,http://live.9528.eu.org/4gtv.php?channel=229
+大爱二台,http://live.9528.eu.org/4gtv.php?channel=230
+MOMO亲子台,http://live.9528.eu.org/4gtv.php?channel=231
+CNBC Asia 财经台,http://live.9528.eu.org/4gtv.php?channel=235
+金光布袋戏,http://live.9528.eu.org/4gtv.php?channel=236
+爱尔达生活旅游台,http://live.9528.eu.org/4gtv.php?channel=237
+戏剧免费看 2台,http://live.9528.eu.org/4gtv.php?channel=244
+电影免费看 2台,http://live.9528.eu.org/4gtv.php?channel=245
+民视,http://live.9528.eu.org/4gtv.php?channel=246
+滚动力rollor,http://live.9528.eu.org/4gtv.php?channel=249
+亚洲旅游台,http://live.9528.eu.org/4gtv.php?channel=250
+Global Trekker,http://live.9528.eu.org/4gtv.php?channel=252
+儿童卡通台,http://live.9528.eu.org/4gtv.php?channel=269
+戏剧免费看 1台,http://live.9528.eu.org/4gtv.php?channel=270
+原住民族电视台,http://live.9528.eu.org/4gtv.php?channel=273
+fun探索娱乐台,http://live.9528.eu.org/4gtv.php?channel=274
+ROCK Entertainment,http://live.9528.eu.org/4gtv.php?channel=275
+时尚运动X,http://live.9528.eu.org/4gtv.php?channel=277
+超人力霸王,http://live.9528.eu.org/4gtv.php?channel=278
+花系列 经典剧场,http://live.9528.eu.org/4gtv.php?channel=279
+寰宇新闻台湾台,http://live.9528.eu.org/4gtv.php?channel=280
+寰宇财经台,http://live.9528.eu.org/4gtv.php?channel=281
+DreamWorks 梦工厂动画,http://live.9528.eu.org/4gtv.php?channel=282
+Bloomberg TV,http://live.9528.eu.org/4gtv.php?channel=283
+TVBS综艺台,http://live.9528.eu.org/4gtv.php?channel=284
+TVBS台剧台,http://live.9528.eu.org/4gtv.php?channel=285
+东森购物四台,http://live.9528.eu.org/4gtv.php?channel=286
+东森购物三台,http://live.9528.eu.org/4gtv.php?channel=287
+Globetrotter 环游旅行家,http://live.9528.eu.org/4gtv.php?channel=288
+番茄直击台,http://live.9528.eu.org/4gtv.php?channel=289
+芭乐直击台,http://live.9528.eu.org/4gtv.php?channel=290
+
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
@@ -242,6 +422,16 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 扬州邗江,https://cm-wshls.homecdn.com/live/8c3.m3u8
 
 📡卫视频道👉全网,#genre#
+安徽卫视,http://60.167.16.243:2000/rtp/238.1.79.27:4328
+安徽体育,http://60.167.16.243:2000/rtp/238.1.79.41:4440
+安徽经济,http://60.167.16.243:2000/rtp/238.1.79.44:4464
+安徽公共,http://60.167.16.243:2000/udp/238.1.79.43:4456
+安徽影视,http://60.167.16.243:2000/rtp/238.1.79.42:4448
+安徽国际,http://60.167.16.243:2000/rtp/238.1.78.61:6360
+安徽农业,http://60.167.16.243:2000/rtp/238.1.79.40:4432
+安徽人物,http://60.167.16.243:2000/rtp/238.1.79.45:4472
+广东卫视,http://60.167.16.243:2000/rtp/238.1.78.161:7160
+厦门卫视,http://60.167.16.243:2000/rtp/238.1.78.246:7840
 湖南卫视,http://live.dxms.top/dwy/mghn.php
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 兰考新闻,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
@@ -716,6 +906,7 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 邵氏影院@代,https://www.goodiptv.club/douyu/4246519
 邵氏影院@代,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 邵氏影院@代,http://43.138.170.29:35455/douyu/4246519
+经典电影频道,http://222.218.158.90:8181/tsfile/live/1008_1.m3u8
 超级电影频道,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 CCTV 电影台,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CHC高清电影,http://[2409:8087:4c0a:22:1::21]:6610/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04&
@@ -1855,9 +2046,10 @@ MTVBlockParty,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS0
 
 ,#genre#
 ⑥春盈天下线路1,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
-⑥春盈天下线路2,http://mtw.so/5Vma8v
-⑥春盈转播线路3,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
-⑥春盈转播线路4,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
+⑥春盈天下线路2,http://cdn8.jdshipin.com:8880/smt.php?id=j2_twn
+⑥春盈天下线路3,http://mtw.so/5Vma8v
+⑥春盈转播线路4,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
+⑥春盈转播线路5,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 ⑥香港21:30四九,rtmp://100www.ku55.cn/zzjj123/livekj123?auth_key=2299702236-0-0-4d409d8bca97ea5ff8fd9cf763129ac1
 ⑥香港21:30一七,https://ccc.jihbcr.com/live/629.m3u8
 
@@ -1869,3 +2061,4 @@ MTVBlockParty,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS0
 @老熬21:32一三,https://vdm6-ali.hrypl168.com/live/a6.flv
 @老熬21:32播放,https://vdm6-ali.kavimmensucat.com/live/2032-2.flv
 @老熬21:32规范,https://vdm6-qq.nxfsl.com/live/2032-2.flv
+
