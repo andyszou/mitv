@@ -1,4 +1,3 @@
-
 ┌ 少儿频道 ┐,#genre#
 
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
@@ -6,7 +5,6 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 哈哈炫动,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
 
 ├ 少儿动画 ┤,#genre#
-
 倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 雲朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
 反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
@@ -64,8 +62,6 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 熊出没·伴我熊芯,https://ukzyvod3.ukubf5.com/20230416/RQv7Npdz/index.m3u8
 深海,https://vip1.lz-cdn1.com/20230324/20760_c088369d/1800k/hls/mixed.m3u8
 深海,https://vip1.lz-cdn1.com/20230324/20760_c088369d/index.m3u8
-
-
 
 少儿动画001,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3823b0a397454309b1b9c6118a335f08/1200.m3u8
 少儿动画002,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/124ae5351e6145bb9d4a972bcd704a13/1200.m3u8
@@ -366,7 +362,6 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 少儿动画297,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6c438ef0a3cc492fa136ae39a4da941e/1200.m3u8
 
 ├ 愚公移山 ┤,#genre#
-
 愚公移山01,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9cde53f7f35e487695bff36d2cb5ef15/1200.m3u8
 愚公移山02,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/35598461938d4fb988dbb494171ca78e/1200.m3u8
 愚公移山03,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b1a69484f9c1425e82b63f31a5d8dd4f/1200.m3u8
@@ -608,7 +603,6 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 
 
 ├ 猪猪侠剧 ┤,#genre#
-
 猪猪侠剧01,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6bf4cda0ebce4dfd91cb7b0296de7e90/1200.m3u8
 猪猪侠剧02,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/aab9cb537d464c6987710db633e28c6a/1200.m3u8
 猪猪侠剧03,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fc2546c3481a4f5e866a43af5f8222ac/1200.m3u8
@@ -638,7 +632,6 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 
 
 ├ 熊熊乐园 ┤,#genre#
-
 熊熊乐园01,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b333914bfe2b49d793d41f3233505f5f/1200.m3u8
 熊熊乐园02,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7d35b256e4794918837e184d35f34492/1200.m3u8
 熊熊乐园03,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8da51eedd80c4c0b98765b20d1729d42/1200.m3u8
@@ -692,10 +685,7 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 熊熊乐园51,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7fc7a246576744e1b032622846c1fd43/1200.m3u8
 熊熊乐园52,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/23d304c091184090b3b6ceef8822a273/1200.m3u8
 
-
-
 ├ 动物世界 ┤,#genre#
-
 动物世界,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/71d7dce230b74c1b9e35b41e837ffc5f/1200.m3u8
 彩蛇之舞,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/002334474c7c4b8b98bad237a7bdeb7b/1200.m3u8
 蛇类大观园,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/414f84230ced4696af656a112385b72c/1200.m3u8
@@ -1064,7 +1054,6 @@ iPanda基地母子园1,http://gcalic.v.myalicdn.com/gc/xiongmao07_1/index.m3u8
 
 
 └ 纪录频道 ┘,#genre#
-
 人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
 自然传奇,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
 探索发现,http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8

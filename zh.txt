@@ -1,9 +1,11 @@
 🌄💘常看频道V6,#genre#
 CCTV-1综合,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
 CCTV-4中文国际,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8
-CCTV-13新闻,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8
+CCTV-7国防军事,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV-7国防军事,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000380/index.m3u8?IAS
 CCTV-9纪录,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8
 CCTV-10科教,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225730/index.m3u8
+CCTV-13新闻,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8
 
 CCTV-4K超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV-4K超高清,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227354/index.m3u8
@@ -49,17 +51,22 @@ BesTV-4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/000000010000000600000000000
 爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 
-
 🌄💝常看频道V4,#genre#
 
-CCTV1,http://60.6.255.8:2180/live/cctv1/index.m3u8
-CCTV4,http://60.6.255.8:2180/live/cctv4/index.m3u8
-CCTV7,http://60.6.255.8:2180/live/cctv7/index.m3u8
-CCTV9,http://60.6.255.8:2180/live/cctv9/index.m3u8
-CCTV10,http://60.6.255.8:2180/live/cctv10/index.m3u8
-CCTV13,http://60.6.255.8:2180/live/cctv13/index.m3u8
+CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
+CCTV-4中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV-7国防军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV-9纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-10科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV-13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+CCTV-13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
-
+CCTV-1综合,http://biaozhun114.com/tv/v6hubei.php?id=1
+CCTV-4中文国际,http://biaozhun114.com/tv/v6hubei.php?id=4
+CCTV-7国防军事,http://biaozhun114.com/tv/v6hubei.php?id=8
+CCTV-9纪录,http://biaozhun114.com/tv/v6hubei.php?id=10
+CCTV-10科教,http://biaozhun114.com/tv/v6hubei.php?id=11
+CCTV-13新闻,http://biaozhun114.com/tv/v6hubei.php?id=14
 
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://kuanglong.vicp.hk:2121/udp/239.93.16.118:8708$OK1
@@ -69,7 +76,7 @@ CCTV13,http://60.6.255.8:2180/live/cctv13/index.m3u8
 凤凰资讯,http://175.43.106.84:4022/udp/239.61.5.47:1025$ok
 凤凰资讯,http://e3.woc.iiiya.cn:8888/udp/239.61.5.47:1025$ok
 凤凰资讯,http://e2.woc.iiiya.cn:8888/udp/239.61.5.47:1025$ok
-
+凤凰资讯,http://sxl.x3322.net:8888/rtp/233.50.200.192:5140
 凤凰资讯,http://118.114.96.20:8889/rtp/239.93.0.118:2191?
 凤凰资讯,http://118.114.96.20:8889/udp/239.93.1.4:2191?
 凤凰资讯,http://giwon.ddns.net:5555/udp/239.93.0.118:2191
@@ -88,7 +95,7 @@ CCTV13,http://60.6.255.8:2180/live/cctv13/index.m3u8
 凤凰中文,http://175.43.106.84:4022/udp/239.61.2.184:9092$OK
 凤凰中文,http://175.43.106.84:4022/udp/239.61.5.48:1025$OK
 凤凰中文,http://www.tk1986.top:8888/udp/239.76.253.135:9000$测试
-
+凤凰中文,http://sxl.x3322.net:8888/rtp/233.50.200.191:5140
 凤凰中文,http://kuanglong.vicp.hk:2121/udp/239.93.16.31:8012
 凤凰中文,http://112.19.171.156:9999/udp/239.93.0.162:2192
 凤凰中文,http://giwon.ddns.net:5555/udp/239.93.0.162:2192
@@ -132,7 +139,6 @@ CCTV13,http://60.6.255.8:2180/live/cctv13/index.m3u8
 中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7$OK
 中天新闻,http://66.165.240.154:8080/live/ztylt01/hls.m3u8$OK
 中天新闻,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e#mitv://generationnexxxt.com:19806/e92e93fd67794e92acdc0d4005f0781a
-
 
 民视新闻,http://livetv.skycf.eu.org/live.m3u8?c=11
 
@@ -277,8 +283,6 @@ amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 
 
 🌼央卫地VVV6,#genre#
-
-
 
 CCTV-1综合,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUU6FFmRK8Hl0ytyd5e5kWGEwoDIwMxbrlyyVy9x6ZDKnldIYKOjBOUjRyoym5n7Kg0yIYstFTUfqtC14fzxhy5Y
 CCTV-2财经,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000036BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfGVSARKsxkWGZw7vFUuOj2QZHeRzosIxVbl7i2QHFATHA3k5wDWG1qHkZQAleNv%2FbI
