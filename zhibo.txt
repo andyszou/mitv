@@ -1,4 +1,5 @@
 YY直播频道,#genre#
+
 993舞蹈,http://159.75.85.63:35455/yy/22490906$ok
 993舞蹈,http://124.248.69.76:35455/yy/22490906$ok
 993舞蹈,http://11.xmyxc.cn/api/php/yy.php?id=22490906$ok
@@ -585,6 +586,43 @@ H正在直播,http://124.248.69.76:35455/yy/1461725670
 
 
 ✴️粉红頻道_888,#genre#
+日本1：http://103.36.32.14:5002/cs27.m3u8?token=guoziyun&gid=cs27&channel=zhongying
+
+Brazzers：http://23.237.100.82:8000/BRAZZERS/index.m3u8
+Brazzers：http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+Desire：http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+DORCEL TV：http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+EROX：http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+EROXXX：http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+EXTASY：http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+Hustler：http://23.237.100.82:8000/HUSTLER/index.m3u8
+Hustler：https://live.iptvxxx.net/hustlertv.m3u8
+Jenny For You：https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
+Miami TV：https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+Penhouse：http://23.237.100.82:8000/PENTHOUSE/index.m3u8
+Penhouse Gold: http://51.159.102.100/PenthouseGold/index.m3u8
+Penhouse Passion TV：https://live.iptvxxx.net/penthousepassiontv.m3u8
+Playboy：http://23.237.100.82:8000/PLAYBOY/index.m3u8
+Playboy：http://213.13.16.138/shls/LIVE%24Playboy_TV/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+Playboy HD：http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+RedLight HD：http://51.159.102.100/RedlightHD/index.m3u8
+VISIT-X：https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+
+惊艳台：https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
+潘多拉：https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
+香蕉台：https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
+松视1台：https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
+松视2台：https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
+松视1台：https://z88.ubtvfans.com:443/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
+松视2台：https://z88.ubtvfans.com:443/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
+松视3台：https://z88.ubtvfans.com:443/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
+香蕉台：http://z88.ubtvfans.com:443/live/rx3/2930/3bd19ceb41bccf7790ee168b92b69985/index.m3u8
+惊艳台：http://z88.ubtvfans.com/live/rx4/2931/0abbe9024509c229983e5c124e987107/index.m3u8
+彩虹电影：http://z88.ubtvfans.com/live/rx3/413/f39876dcbac1ca67fd1c1015cfc2af27/index.m3u8
+轮播电影：http://z88.ubtvfans.com/live/rx3/405/f72f337b1279855143cddce063a60cd6/index.m3u8
+轮播电影：http://z88.ubtvfans.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
+轮播电影：https://z88.ubtvfans.com:443/live/rx3/410/65c496a8a32fe34c9af6b1dce9988f28/index.m3u8
+
 驚豔臺HD,https://cf005.paopao.video:443/A1B1E799A45B0C396A6ABCE8F41D7130B91BAFAB
 彩虹电影,http://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202404/28/34UwC-XV2DieA?response-content-disposition=inline%3Bfilename%3D%25E5%25BD%25A9%25E8%2599%25B9%25E7%2594%25B5%25E5%25BD%25B1.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1715097599&Signature=SffSU1BNLanZF4e%2FLsO1zi%2BO0BA%3D
 香蕉台,https://cf005.paopao.video:443/A1B1E799A45B0C396A6ABCE8F41D7130B91BAFAB
